@@ -1,3 +1,3 @@
 ## README
 
-Repository for all files related to dveloping the National Marine Aquarium standard operating procedures book.
+Repository for the National Marine Aquariuam standard operating procedures book.

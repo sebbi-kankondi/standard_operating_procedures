@@ -1,0 +1,927 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.353">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Aquarium sop - 2&nbsp; Dissolved Air Flotation (DAF) Tank</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./fractionator.html" rel="next">
+<link href="./intro.html" rel="prev">
+<link href="./aquarium_logo.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+<script async="" src="https://hypothes.is/embed.js"></script>
+
+
+</head>
+
+<body class="nav-sidebar docked">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav">
+    <div class="container-fluid d-flex">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+        <i class="bi bi-layout-text-sidebar-reverse"></i>
+      </button>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./intro.html">Life Support System (LSS)</a></li><li class="breadcrumb-item"><a href="./DAF.html"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Dissolved Air Flotation (DAF) Tank</span></a></li></ol></nav>
+      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+      </a>
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
+        <i class="bi bi-search"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation docked overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Aquarium sop</a> 
+        <div class="sidebar-tools-main">
+    <a href="./aquarium_sop_book.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+    <div class="dropdown">
+      <a href="" title="Share" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Share"><i class="bi bi-share"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://twitter.com/intent/tweet?url=|url|">
+              <i class="bi bi-bi-twitter pe-1"></i>
+            Twitter
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="https://www.facebook.com/sharer/sharer.php?u=|url|">
+              <i class="bi bi-bi-facebook pe-1"></i>
+            Facebook
+            </a>
+          </li>
+      </ul>
+    </div>
+</div>
+    </div>
+      </div>
+        <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+        </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Preface</span></a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+ <span class="menu-text">Life Support System (LSS)</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./DAF.html" class="sidebar-item-text sidebar-link active">
+ <span class="menu-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Dissolved Air Flotation (DAF) Tank</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./fractionator.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Foam Fractionator</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./filter_tank.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Filter tanks</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./generator.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Back-up generator</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
+ <span class="menu-text">Display Animals</span></a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./transport.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Transport</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./diving.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Diving</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./animal_collection.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Sample collection</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./health.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Health &amp; Welfare</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./quarantine.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Quarantine</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./feed.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Feed</span></span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">12</span>&nbsp; <span class="chapter-title">Summary</span></span></a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">References</span></a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar"><div class="quarto-margin-header"><div class="margin-header-item">
+<p><img src="./aquarium_logo.png" width="100px" height="100px"></p>
+</div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#sec-daf-maintain" id="toc-sec-daf-maintain" class="nav-link active" data-scroll-target="#sec-daf-maintain"><span class="header-section-number">2.1</span> Maintenance</a>
+  <ul class="collapse">
+  <li><a href="#sec-daf-tool" id="toc-sec-daf-tool" class="nav-link" data-scroll-target="#sec-daf-tool"><span class="header-section-number">2.1.1</span> Tool preparation</a></li>
+  <li><a href="#drain-daf" id="toc-drain-daf" class="nav-link" data-scroll-target="#drain-daf"><span class="header-section-number">2.1.2</span> Drain DAF</a></li>
+  <li><a href="#inspect-nozzle-manifold-and-associated-parts" id="toc-inspect-nozzle-manifold-and-associated-parts" class="nav-link" data-scroll-target="#inspect-nozzle-manifold-and-associated-parts"><span class="header-section-number">2.1.3</span> Inspect Nozzle manifold and associated parts</a></li>
+  <li><a href="#sec-clean-daf-tank" id="toc-sec-clean-daf-tank" class="nav-link" data-scroll-target="#sec-clean-daf-tank"><span class="header-section-number">2.1.4</span> Clean tank</a></li>
+  <li><a href="#resume-normal-operation" id="toc-resume-normal-operation" class="nav-link" data-scroll-target="#resume-normal-operation"><span class="header-section-number">2.1.5</span> Resume normal operation</a></li>
+  </ul></li>
+  <li><a href="#repairs" id="toc-repairs" class="nav-link" data-scroll-target="#repairs"><span class="header-section-number">2.2</span> Repairs</a>
+  <ul class="collapse">
+  <li><a href="#problem-diagnosis" id="toc-problem-diagnosis" class="nav-link" data-scroll-target="#problem-diagnosis"><span class="header-section-number">2.2.1</span> Problem diagnosis</a></li>
+  <li><a href="#tool-preparation" id="toc-tool-preparation" class="nav-link" data-scroll-target="#tool-preparation"><span class="header-section-number">2.2.2</span> Tool preparation</a></li>
+  <li><a href="#nozzle-inspection" id="toc-nozzle-inspection" class="nav-link" data-scroll-target="#nozzle-inspection"><span class="header-section-number">2.2.3</span> Nozzle inspection</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    <div class="quarto-margin-footer"><div class="margin-footer-item">
+<p>Sebbi Kankondi</p>
+</div></div></div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Dissolved Air Flotation (DAF) Tank</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+  
+    
+  </div>
+  
+
+</header>
+
+<p>The DAF tank can be found on the Aquarium’s ground floor, behind the main “staff only” access point (<a href="#fig-biofilter">Figure&nbsp;<span>2.1</span></a>).</p>
+<div id="fig-biofilter" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/daf/biofilter.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption class="figure-caption">Figure&nbsp;2.1: The Foam fractionator (left), Flocculation column (center) and Dissolved air flotation (right) tanks.</figcaption>
+</figure>
+</div>
+<p>It has one drain valve and an electric actuator valve in series with the DAF outlet valve, along the outside of the main tank (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>). The inside of the tank consists of a smaller central DAF column that houses a nozzle manifold connected to the saturated water inlet pipe.</p>
+<div id="fig-dafcomp" class="quarto-layout-panel" data-fig-pos="H">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-daf-drain" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/daf/dafdrain2.jpg" class="img-fluid figure-img" data-ref-parent="fig-dafcomp"></p>
+<figcaption class="figure-caption">(a) Drain valve</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-daf-outlet" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/daf/actuator2.jpg" class="img-fluid figure-img" data-ref-parent="fig-dafcomp"></p>
+<figcaption class="figure-caption">(b) Outlet (left) and Actuator (right) valve</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2.2: Image of the main components along the outside of the DAF tank.</figcaption><p></p>
+</figure>
+</div>
+<section id="sec-daf-maintain" class="level2" data-number="2.1">
+<h2 data-number="2.1" class="anchored" data-anchor-id="sec-daf-maintain"><span class="header-section-number">2.1</span> Maintenance</h2>
+<p><span style="color: red">The maintenance procedure described for the DAF tank should be completed once every year</span>.</p>
+<section id="sec-daf-tool" class="level3" data-number="2.1.1">
+<h3 data-number="2.1.1" class="anchored" data-anchor-id="sec-daf-tool"><span class="header-section-number">2.1.1</span> Tool preparation</h3>
+<p><strong>Most of the tools can be found inside the workshop (room 162)</strong>.</p>
+<p>These include:</p>
+<ul>
+<li>1 x monkey wrench</li>
+<li>1 x long hose pipe (50mm diameter)</li>
+<li>1 x Ladder (approximately 1.8m long)</li>
+<li>1 x long stick (approximately 2.2m long)</li>
+<li>2 x Fish scoop nets</li>
+<li>1 x Bucket</li>
+</ul>
+<p><strong>To conduct annual maintenance, the DAF tank has to be drained completely</strong>.</p>
+</section>
+<section id="drain-daf" class="level3" data-number="2.1.2">
+<h3 data-number="2.1.2" class="anchored" data-anchor-id="drain-daf"><span class="header-section-number">2.1.2</span> Drain DAF</h3>
+<ul>
+<li><strong>Steps 1-6 will be completed inside the plant room</strong>.</li>
+</ul>
+<ol type="1">
+<li>Close Dump valve No.&nbsp;18 (<a href="#fig-dump-valve">Figure&nbsp;<span>2.3 (a)</span></a>).</li>
+<li>Wait for the water level at the Prosonic HMU 860 to reach 90% (<a href="#fig-prosonic">Figure&nbsp;<span>2.3 (b)</span></a>).
+<ul>
+<li><em>Done to ensure enough sea water remains in circulation during the maintenance procedure</em>.</li>
+</ul></li>
+<li>Switch off the Jetty pump on the Main control switchboard (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).
+<ul>
+<li><em>Prevents more water intake</em>.</li>
+</ul></li>
+</ol>
+<div id="fig-seacirc" class="quarto-layout-panel" data-fig-pos="H">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 33.3%;justify-content: center;">
+<div id="fig-dump-valve" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/dump_valve2.jpg" class="img-fluid figure-img" data-ref-parent="fig-seacirc"></p>
+<figcaption class="figure-caption">(a) Dump valve</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 33.3%;justify-content: center;">
+<div id="fig-prosonic" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/prosonic.jpg" class="img-fluid figure-img" data-ref-parent="fig-seacirc"></p>
+<figcaption class="figure-caption">(b) Prosonic HMU 860</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 33.3%;justify-content: center;">
+<div id="fig-mcs" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/main_switch2.jpg" class="img-fluid figure-img" data-ref-parent="fig-seacirc"></p>
+<figcaption class="figure-caption">(c) Main control switchboard</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2.3: Some of the components needed to control the circulation of water and air between the Aquarium and the sea, and within the Aquarium.</figcaption><p></p>
+</figure>
+</div>
+<ol start="4" type="1">
+<li>Switch off the Saturator pump.
+<ul>
+<li><em>Clipsal power outlet No.&nbsp;2</em> (<a href="#fig-sat-power">Figure&nbsp;<span>2.4 (b)</span></a>).</li>
+</ul></li>
+<li>Close the Saturator isolating valve No.&nbsp;36 (<a href="#fig-sat-inlet">Figure&nbsp;<span>2.4 (c)</span></a>).
+<ul>
+<li><em>Feeds the Saturator system</em>.</li>
+</ul></li>
+<li>Close the Saturator discharge valve (No.&nbsp;42) to the DAF tank (<a href="#fig-sat-outlet">Figure&nbsp;<span>2.4 (d)</span></a>).</li>
+</ol>
+<ul>
+<li><strong>Steps 3 - 6 prevent water flow into the DAF unit during the maintenance procedure</strong>.</li>
+</ul>
+<div id="fig-sat-comp" class="quarto-layout-panel" data-fig-pos="H">
+<figure class="figure">
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-sat" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/saturator2.jpg" class="img-fluid figure-img" data-ref-parent="fig-sat-comp"></p>
+<figcaption class="figure-caption">(a) Saturator</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-sat-power" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/saturator_power2.jpg" class="img-fluid figure-img" data-ref-parent="fig-sat-comp"></p>
+<figcaption class="figure-caption">(b) Saturator power outlet</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<div class="quarto-layout-row quarto-layout-valign-top">
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-sat-inlet" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/saturator_isolating2.jpg" class="img-fluid figure-img" data-ref-parent="fig-sat-comp"></p>
+<figcaption class="figure-caption">(c) Saturator inlet valve.</figcaption>
+</figure>
+</div>
+</div>
+<div class="quarto-layout-cell quarto-layout-cell-subref" style="flex-basis: 50.0%;justify-content: center;">
+<div id="fig-sat-outlet" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/plant_room/saturator_discharge2.jpg" class="img-fluid figure-img" data-ref-parent="fig-sat-comp"></p>
+<figcaption class="figure-caption">(d) Saturator outlet valve.</figcaption>
+</figure>
+</div>
+</div>
+</div>
+<p></p><figcaption class="figure-caption">Figure&nbsp;2.4: The saturator and all the components required to control water flow from the saturator into the DAF unit.</figcaption><p></p>
+</figure>
+</div>
+<ol start="7" type="1">
+<li>Open DAF drain valve (No.&nbsp;43).</li>
+<li>Allow DAF to drain completely.</li>
+</ol>
+<ul>
+<li><strong>Some water still remains in central DAF column after draining</strong>.</li>
+</ul>
+</section>
+<section id="inspect-nozzle-manifold-and-associated-parts" class="level3" data-number="2.1.3">
+<h3 data-number="2.1.3" class="anchored" data-anchor-id="inspect-nozzle-manifold-and-associated-parts"><span class="header-section-number">2.1.3</span> Inspect Nozzle manifold and associated parts</h3>
+<p><span style="color: red">This is a job for a minimum of 2 people</span>.</p>
+<ol start="9" type="1">
+<li>Uncouple the Nozzle manifold from the Saturated water inlet pipe.
+<ul>
+<li><em>Use a monkey wrench</em>.</li>
+</ul></li>
+<li>Pull Nozzle manifold out of central DAF column for further inspection.
+<ul>
+<li><em>Note any missing parts and biofouling</em>.</li>
+</ul></li>
+<li>Allow pungent fumes emitted by the sludge build up to clear overnight if necessary.
+<ul>
+<li><em>Prolonged inhalation of concentrated methane gas can result in loss of consciousness</em>.</li>
+<li><em>Might not need to wait overnight, can estimate time needed by strength of smell emitted on the day</em>.</li>
+</ul></li>
+</ol>
+<ul>
+<li><strong>Skip steps 12-16 if maintenance work will resume on the same day</strong>.</li>
+</ul>
+<ol start="12" type="1">
+<li>Turn on Jetty pump.</li>
+<li>Close DAF drain valve No.&nbsp;43 (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).</li>
+<li>Fill a 1/4 of the DAF tank up with sea water.</li>
+</ol>
+<ul>
+<li><strong>In steps 12-14, water is left in the tank to stop the sludge from drying up overnight and adding on to the time required to clean up</strong>.</li>
+</ul>
+<ol start="15" type="1">
+<li>Turn off the Jetty pump (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).</li>
+<li>Before resuming maintenance work the next day, open the DAF drain valve and let the water drain out (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).</li>
+<li>Lower ladder into DAF, rest against central column and climb in.
+<ul>
+<li><em>Person climbing in should be small enough to fit through the top of the DAF tank</em>.</li>
+</ul></li>
+<li>Siphon water out of the central DAF column and into the main DAF tank, where it will discharge via valve No.&nbsp;43.
+<ul>
+<li><em>Use a 50mm diameter hose</em>.</li>
+<li><em>Lower hose into water, create vacuum inside the hose and keep outlet at lower level than inlet to generate flow out of central column</em>.</li>
+</ul></li>
+</ol>
+<ul>
+<li><strong>Skip step 19 if none of the Nozzles or Nozzle parts are lost</strong>.</li>
+</ul>
+<ol start="19" type="1">
+<li>Retrieve missing Nozzle parts from central DAF column (<a href="#fig-dafnozzle">Figure&nbsp;<span>2.5</span></a>).
+<ul>
+<li><em>Use Fish scoop net and bucket</em>.</li>
+<li><em>May have to scoop out some sludge first to get to the missing parts</em>.</li>
+</ul></li>
+<li>Using the fish scoop net, discard (into bucket) any remaining sludge.</li>
+<li>Dismantle and clean the Nozzle manifold, Nozzle heads and any accompanying parts (<a href="#fig-dafnozzle">Figure&nbsp;<span>2.5</span></a>).
+<ul>
+<li><em>Should be able to separate the two small, circular plates found within the Nozzles</em>.</li>
+<li><em>Both have a single hole along their periphery. One smaller than the other</em>.</li>
+</ul></li>
+</ol>
+<div id="fig-dafnozzle" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p><img src="images/daf/nozzle_head.jpg" class="img-fluid figure-img" style="width:50.0%"></p>
+<figcaption class="figure-caption">Figure&nbsp;2.5: The disassembled DAF, saturated water, discharge nozzle head.</figcaption>
+</figure>
+</div>
+<ol start="22" type="1">
+<li>Inspect Nozzle parts for damage.
+<ul>
+<li><em>Take note of damage, if any, and proceed to next step</em>.</li>
+</ul></li>
+<li>Re-assemble respective parts from step 21.
+<ul>
+<li><em>Place the plate with the larger hole on top of the other, facing the opposite direction before inserting it into the Nozzle head</em>.</li>
+</ul></li>
+</ol>
+<p><span style="color: red">If there are obvious signs of damage to the nozzles, they will have to be replaced with new ones as soon as possible</span>. <span style="color: red">Likely contact for new Nozzles is Mr.&nbsp;Jan Marais at Aqua services and engineering</span>.</p>
+</section>
+<section id="sec-clean-daf-tank" class="level3" data-number="2.1.4">
+<h3 data-number="2.1.4" class="anchored" data-anchor-id="sec-clean-daf-tank"><span class="header-section-number">2.1.4</span> Clean tank</h3>
+<ol start="24" type="1">
+<li>Turn on Jetty pump (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).</li>
+<li>Close DAF drain valve No.&nbsp;43 (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).</li>
+<li>Fill a 1/4 of the DAF tank with sea water.</li>
+<li>Turn off the Jetty pump.</li>
+<li>Connect long hose pipe (16mm diameter) to a water tap.</li>
+<li>Fasten long stick (approx. 2.2m length and 40mm diameter) to the opposite end of the hose pipe with cable ties.</li>
+<li>Lower pipe into the DAF tank and open tap.</li>
+<li>Use the water flow from the pipe to help agitate and thoroughly mix the sludge with the standing water.</li>
+<li>Open the DAF drain valve and let the water-sludge mix drain out.
+<ul>
+<li><em>Continue mixing the sludge during draining</em>.</li>
+</ul></li>
+</ol>
+<ul>
+<li><strong>Fill a 1/4 of the DAF tank up and repeat if sludge not adequately cleared</strong>.</li>
+</ul>
+<ol start="33" type="1">
+<li>Climb out and remove the ladder.</li>
+<li>Connect Nozzle manifold to the Saturated water inlet pipe.</li>
+</ol>
+</section>
+<section id="resume-normal-operation" class="level3" data-number="2.1.5">
+<h3 data-number="2.1.5" class="anchored" data-anchor-id="resume-normal-operation"><span class="header-section-number">2.1.5</span> Resume normal operation</h3>
+<p><span style="color: red">Only resume normal system operation if there is no excess sludge build-up at the bottom of the DAF tank</span></p>
+<ol start="35" type="1">
+<li>Switch on Jetty pump (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).</li>
+<li>Close DAF drain valve No.&nbsp;43.</li>
+<li>Wait for DAF tank to fill up.
+<ul>
+<li><em>Lasts more than 30 minutes</em>.</li>
+</ul></li>
+<li>Open Main dump valve No.&nbsp;18 (<a href="#fig-dump-valve">Figure&nbsp;<span>2.3 (a)</span></a>).</li>
+<li>Open Saturator isolating valve No.&nbsp;36 (<a href="#fig-sat-inlet">Figure&nbsp;<span>2.4 (c)</span></a>).</li>
+<li>Switch on Saturator pump (<a href="#fig-sat-power">Figure&nbsp;<span>2.4 (b)</span></a>).</li>
+<li>Open Saturator discharge valve No.&nbsp;42 (<a href="#fig-sat-outlet">Figure&nbsp;<span>2.4 (d)</span></a>).</li>
+</ol>
+</section>
+</section>
+<section id="repairs" class="level2" data-number="2.2">
+<h2 data-number="2.2" class="anchored" data-anchor-id="repairs"><span class="header-section-number">2.2</span> Repairs</h2>
+<p>Under normal circumstances the Dissolved oxygen flotation (DAF) tank acts as an initial filter in the Aquarium system, removing oils, grease and any other suspended solids from the raw sea water intake. This is achieved in conjunction with flocculant from the flocculant column (<a href="#fig-biofilter">Figure&nbsp;<span>2.1</span></a>) and micro air bubbles, supplied via nozzles from the saturator column (<a href="#fig-sat">Figure&nbsp;<span>2.4 (a)</span></a>) that are discharged at the base of a smaller, central DAF column within the main DAF tank. Flocculant coagulates the suspended material, which is then surrounded and lifted by the micro-bubbles, before being skimmed off the top and discharged through the waste outlet.</p>
+<p>When the DAF performs sub-optimally, unfiltered, raw sea water containing substances such as oils and heavy metals may enter the Aquarium system. This can severely impair the display animals’ health, possibly leading to increased mortality rates. Consequently, the DAF systems’ performance should not be compromised for prolonged periods.</p>
+<section id="problem-diagnosis" class="level3" data-number="2.2.1">
+<h3 data-number="2.2.1" class="anchored" data-anchor-id="problem-diagnosis"><span class="header-section-number">2.2.1</span> Problem diagnosis</h3>
+<p>Excess bubbling/large bubble formation was identified at the top of the DAF by Mr.&nbsp;Botes after a routine inspection round. Further consultation with Mr.&nbsp;Jan Marais, from Aqua Services and Engineering, narrowed the problem down to a likely issue with the nozzles.</p>
+</section>
+<section id="tool-preparation" class="level3" data-number="2.2.2">
+<h3 data-number="2.2.2" class="anchored" data-anchor-id="tool-preparation"><span class="header-section-number">2.2.2</span> Tool preparation</h3>
+<p><strong>The tools used in <a href="#sec-daf-tool"><span>Section&nbsp;2.1.1</span></a> were also used here.</strong></p>
+</section>
+<section id="nozzle-inspection" class="level3" data-number="2.2.3">
+<h3 data-number="2.2.3" class="anchored" data-anchor-id="nozzle-inspection"><span class="header-section-number">2.2.3</span> Nozzle inspection</h3>
+<p>To inspect the nozzles, the DAF unit had to be drained of all liquid.</p>
+<section id="drain-daf-1" class="level4">
+<h4 class="anchored" data-anchor-id="drain-daf-1">Drain DAF</h4>
+<ul>
+<li><strong>Steps 1-6 will be completed inside the plant room</strong>.</li>
+</ul>
+<ol type="1">
+<li>Close Dump valve No.&nbsp;18 (<a href="#fig-dump-valve">Figure&nbsp;<span>2.3 (a)</span></a>).</li>
+<li>Wait for the water level at the Prosonic HMU 860 to reach 90% (<a href="#fig-prosonic">Figure&nbsp;<span>2.3 (b)</span></a>).
+<ul>
+<li><em>Done to ensure enough sea water remains in circulation during the maintenance procedure</em>.</li>
+</ul></li>
+<li>Switch off the Jetty pump on the main control switchboard (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).
+<ul>
+<li><em>Prevents more water intake</em>.</li>
+</ul></li>
+<li>Switch off the Saturator pump.
+<ul>
+<li><em>Clipsal power outlet No.&nbsp;2</em> (<a href="#fig-sat-power">Figure&nbsp;<span>2.4 (b)</span></a>).</li>
+</ul></li>
+<li>Close the Saturator isolating valve No.&nbsp;36 (<a href="#fig-sat-inlet">Figure&nbsp;<span>2.4 (c)</span></a>).
+<ul>
+<li><em>Feeds the Saturator system</em>.</li>
+</ul></li>
+<li>Close the Saturator discharge valve (No.&nbsp;42) to the DAF tank (<a href="#fig-sat-outlet">Figure&nbsp;<span>2.4 (d)</span></a>).</li>
+</ol>
+<ul>
+<li><strong>Steps 3 - 6 prevent water flow into the DAF unit during the maintenance procedure</strong>.</li>
+</ul>
+<ol start="7" type="1">
+<li>Opened DAF drain valve No.&nbsp;43 (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).</li>
+<li>Allowed DAF to drain completely.</li>
+</ol>
+<ul>
+<li><strong>Some water still remained in central DAF column after draining</strong></li>
+</ul>
+<p><span style="color: red">Once completely drained, excess sludge could be seen accumulated at the bottom of the DAF tank</span></p>
+</section>
+<section id="extract-nozzle-manifold-and-associated-parts" class="level4">
+<h4 class="anchored" data-anchor-id="extract-nozzle-manifold-and-associated-parts">Extract Nozzle manifold and associated parts</h4>
+<p><span style="color: red">This is a job for a minimum of 2 people</span></p>
+<ol start="9" type="1">
+<li>Uncoupled the Nozzle manifold from the Saturated water inlet pipe.
+<ul>
+<li><em>Used a monkey wrench</em>.</li>
+</ul></li>
+<li>Pulled Nozzle manifold out of central DAF column for further inspection.
+<ul>
+<li><em>One of three Nozzle heads was missing and there was some blockage around the Nozzle outlets due to biofouling</em>.</li>
+</ul></li>
+<li>Allowed pungent fumes emitted by the sludge build up to clear overnight.
+<ul>
+<li><em>Prolonged inhalation of concentrated methane gas can result in loss of consciousness</em>.</li>
+</ul></li>
+<li>Lowered ladder into DAF tank, against central column and climbed in.
+<ul>
+<li><em>Person climbing in should be small enough to fit through the top of the DAF tank</em>.</li>
+</ul></li>
+<li>Siphoned water out of the central DAF column and into the main DAF tank, where it was discharged via valve No.&nbsp;43 (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).
+<ul>
+<li><em>Used a 50mm diameter hose</em>.</li>
+<li><em>Lowered hose into water, created a vacuum inside the hose and kept outlet at lower level than inlet to generate flow out of central column</em>.</li>
+</ul></li>
+<li>Retrieved missing Nozzle parts from central DAF column (<a href="#fig-dafnozzle">Figure&nbsp;<span>2.5</span></a>).
+<ul>
+<li><em>Used Fish scoop net and bucket</em>.</li>
+<li><em>Had to scoop out some sludge first to get to the lost parts</em>.</li>
+</ul></li>
+<li>Used the fish scoop net to discard (into bucket) any remaining sludge after retrieving the lost Nozzle parts.</li>
+<li>Removed ladder.</li>
+<li>Dismantled and cleaned the Nozzle manifold, Nozzle heads and any accompanying parts.
+<ul>
+<li><em>Found two, small circular plates within the Nozzles</em> (<a href="#fig-dafnozzle">Figure&nbsp;<span>2.5</span></a>).</li>
+<li><em>Both had a single hole along their periphery. One smaller than the other</em>.</li>
+</ul></li>
+<li>Inspected the Nozzle parts for damage.
+<ul>
+<li><em>Parts were not damaged</em>.</li>
+</ul></li>
+<li>Re-assembled respective parts from step 17.
+<ul>
+<li><em>Placed the plate with the larger hole on top of the other, facing the opposite direction before inserting it into the Nozzle head</em>.</li>
+</ul></li>
+<li>Connected the Nozzle manifold to the Saturated water inlet pipe.</li>
+</ol>
+<p><span style="color: red">In case of damage to Nozzle parts, contact Mr.&nbsp;Jan Marais, at Aqua services and engineering, for new Nozzles</span>.</p>
+</section>
+<section id="resume-normal-operation-1" class="level4">
+<h4 class="anchored" data-anchor-id="resume-normal-operation-1">Resume normal operation</h4>
+<p><strong>Once all sludge has been removed (see <a href="#sec-daf-maintain"><span>Section&nbsp;2.1</span></a> for clean up procedure) normal system operation can be started</strong>.</p>
+<ol start="21" type="1">
+<li>Switch on Jetty pump (<a href="#fig-mcs">Figure&nbsp;<span>2.3 (c)</span></a>).</li>
+<li>Close DAF drain valve No.&nbsp;43 (<a href="#fig-dafcomp">Figure&nbsp;<span>2.2</span></a>).</li>
+<li>Wait for DAF tank to fill up.
+<ul>
+<li><em>Lasts more than 30 minutes</em>.</li>
+</ul></li>
+<li>Open main dump valve No.&nbsp;18 (<a href="#fig-dump-valve">Figure&nbsp;<span>2.3 (a)</span></a>).</li>
+<li>Open Saturator isolating valve No.&nbsp;36 (<a href="#fig-sat-inlet">Figure&nbsp;<span>2.4 (c)</span></a>).</li>
+<li>Switch on Saturator pump (<a href="#fig-sat-power">Figure&nbsp;<span>2.4 (b)</span></a>).</li>
+<li>Open Saturator discharge valve No.&nbsp;42 (<a href="#fig-sat-outlet">Figure&nbsp;<span>2.4 (d)</span></a>).</li>
+</ol>
+
+
+</section>
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./intro.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Introduction</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./fractionator.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Foam Fractionator</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>
