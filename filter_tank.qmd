@@ -1,0 +1,51 @@
+# Filter tanks
+
+The filtration tanks can be found in the Aquarium's Plant room, located directly underneath the ground floor pseudo bio-filtration system (@fig-ft).
+
+![The Filter tanks arranged in two rows, banks 1 (left) and 2 (right), in the Plant room.](images/plant_room/filter_tanks2.jpg){#fig-ft width="50%" fig-pos="H"}
+
+Highly pressurized water from the filter pumps are contained in the filter tanks by a specialized lid at the top of each tank (@fig-filter-pumps). Attached to each lid is a plumbing manifold that consists of a water inlet and the emerged portion of the tanks outlet pipe, with a flow control valve at the inlet labelled "A"; a backwash pipe and valve labelled "B"; a pressure release valve labelled "C" as well as an air inlet pipe with associated valve labelled "D" (@fig-lid).
+
+![Filter tank lid with the valve positions visible on the attached plumbing manifold. **Valve A - top of the manifold, valve B - bottom center, valve C - bottom left, valve D - bottom right.**](images/plant_room/ft_lid72.jpg){#fig-lid width="50%" fig-pos="H"}
+
+Inside each filter tank, there are two layers of activated filter media arranged in order of their porosity, with the more porous material stacked near the top (@fig-charcoal).
+
+![Large packs of activated filter media used inside the filter tanks.](images/plant_room/filter_media2.jpg){#fig-charcoal width="50%" fig-pos="H"}
+
+The filter media, along with a small strainer at the base of the inlet pipe (@fig-lid-strainer), removes fine suspended solids from the sea water circulating in the system. Ultimately improving the overall clarity of the water in the display tanks.
+
+![Filter tank lid strainer.](images/plant_room/ft_lid_strainer2.jpg){#fig-lid-strainer width="50%" fig-pos="H"}
+
+Six cylindrical rosette filters are arranged circularly, via a rosette support fitting, around the base of the immersed portion of the tanks outlet pipe (@fig-filter-plumbing). The rosette filters have several micro-slits lengthwise where water is passed through, into the outlet pipe.
+
+::: {#fig-filter-plumbing layout-ncol="3" fig-pos="H"}
+![Central outlet pipe](images/plant_room/ft_internal2.jpg){#fig-ft-outlet-pipe}
+
+![Rosette filter](images/plant_room/ft_rosette2.jpg){#fig-rosette-filter}
+
+![Rosette support](images/plant_room/rosette_support2.jpg){#fig-rosette-support}
+
+The filter tanks internal plumbing system.
+:::
+
+Random text for separation.
+
+![The electric motor (left), strainer (right) and corrosion resistant filter pump (center) assembly.](images/plant_room/fm_fp_strainer.jpg){#fig-filter-pumps width="50%" fig-pos="H"}
+
+## Maintenance
+
+Filter tank maintenance procedures include a normal backwash, air backwash and the replacement of the filter media, which has to be conducted daily, weekly and decennially, respectively. Frequent backwash procedures are essential to avoid a build-up of trapped suspended solids and the subsequent increase in the filter system pressure, which can be viewed on the manometers placed above each filter bank (@fig-fb-manometer). The filter media has to be replaced prevent it's effectiveness deteriorating over time due the "tunneling" effect of bio-film producing bacteria, allowing unfiltered water to "bypass" the filter media into the main tank (@fig-main-tank).
+
+![The filter banks' manometers.](images/plant_room/prosonic1.jpg){#fig-fb-manometer width="50%" fig-pos="H"}
+
+Random text for more separation.
+
+![The Aquarium main tank.](images/display/urchin_display2.jpg){#fig-main-tank width="50%" fig-pos="H"}
+
+### Tool preparation {#sec-ft-tool-prep}
+
+[No tools are required for a normal or air backwash]{style="color: red"}
+
+#### Normal backwash
+
+[The normal backwash should be completed once daily]{style="color: red"}

@@ -1,0 +1,14 @@
+{
+  "hash": "d85e2a90290c34a323e575386ee34bf8",
+  "result": {
+    "markdown": "# Summary\n\nIn summary, this book has no content whatsoever. See @sec-introduction for introductory information.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

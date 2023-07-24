@@ -1,0 +1,101 @@
+---
+title: |
+  | \vspace{0cm} \LARGE\bfseries Ministry of Fisheries and Marine Resources
+  | \vspace{0.8cm} \Large National Marine Aquarium
+  | \vspace{2.5cm} \LARGE\bfseries Standard Operating Procedures 
+geometry: "left=3cm,right=3cm,top=2cm,bottom=3cm"
+output:
+  bookdown::pdf_book:
+    keep_tex: yes
+    toc: yes
+    toc_depth: 4
+    number_sections: true
+    extra_dependencies: 
+    - "subfig"
+header-includes:
+ - \renewcommand{\contentsname}{Table Of Contents}
+ - \usepackage{setspace}
+ - \singlespacing
+ - \usepackage{paralist}
+ - \let\itemize\compactitem
+ - \usepackage{titling}
+ - \pretitle{\begin{center}
+ - \includegraphics[width=2in,height=2in]{coat_of_arms.png}\LARGE\\}
+ - \posttitle{\end{center}}
+ - \usepackage{fancyhdr}
+ - \usepackage{graphicx}
+ - \usepackage{hyperref}
+ - \hypersetup{colorlinks=false, pdfborderstyle={/S/U/W 1} }
+ - \usepackage[nottoc]{tocbibind} 
+fontsize: 12pt
+mainfont: Calibri
+sansfont: Calibri
+monofont: Calibri
+documentclass: report  
+---
+
+```{r setup, include=FALSE}
+#load multiple libraries function
+source("C:/Users/Sebbi Kankondi/Desktop/Academic/PhD/Write_Ups/multiple_libraries.R")
+
+read_library(kableExtra, officer, officedown, bookdown, knitr, magick, htmltools, miniUI,
+             shiny, tools)
+
+knitr::opts_chunk$set(echo = FALSE, fig.cap = TRUE, fig.cap.style = "Image Caption", fig.pos = "H",
+  fig.cap.pre = "Figure ", fig.cap.sep = ": ", dpi=300,   tab.cap.style = "Table Caption",
+  tab.cap.pre = "Table ", tab.cap.sep = ": ")
+```
+
+\listoffigures
+
+# Preface {.unnumbered}
+
+\newpage
+
+```{r child = 'DAF.qmd'}
+```
+
+\newpage
+
+```{r child = 'fractionator.qmd'}
+```
+
+\newpage
+
+```{r child = 'jetty.qmd'}
+```
+
+\newpage
+
+```{r child = 'generator.qmd'}
+```
+
+\newpage
+
+```{r child = 'procurement.qmd'}
+```
+
+\newpage
+
+```{r child = 'transport.qmd'}
+```
+
+\newpage
+
+```{r child = 'diving.qmd'}
+```
+
+\newpage
+
+```{r child = 'animal_collection.qmd'}
+```
+
+\newpage
+
+```{r child = 'quarantine.qmd'}
+```
+
+\newpage
+
+```{r child = 'feed.qmd'}
+```

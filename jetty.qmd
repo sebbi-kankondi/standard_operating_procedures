@@ -1,0 +1,299 @@
+# Jetty pumps
+
+There is one submersible Jetty pump ([\textcolor{blue}{Figure \ref{fig:jettypump}}]{.underline}), whose discharge pipe is housed within two protective PVC tubes ([\textcolor{blue}{Figure \ref{fig:strainer}}]{.underline}).
+
+```{r jettypump, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="A used Grundfos submersible jetty pump."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/jetty_pump.jpg")
+```
+
+```{r strainer, out.width = "33%", out.extra="angle=0", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The jetty pump strainer along with it's stainless steel protective chamber (front) and the pvc tubing (back)."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/strain_pvc.jpg")
+```
+
+These PVC tubes are mounted onto one of the Jettys' support columns (one lower down than the other), along with a strainer and protective chamber ([\textcolor{blue}{Figure \ref{fig:strainer}}]{.underline}), using stainless steel brackets ([\textcolor{blue}{Figure \ref{fig:brackets}}]{.underline}).
+
+```{r brackets, out.width = "70%", out.extra="angle=0", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The stainless steel brackets used to secure the jetty pump to the jetty support column."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/brackets.jpg")
+```
+
+The Strainer and protective Chamber house the Jetty pump inlet, providing an added protective barrier against potentially destructive physical and biological factors. One white nylon rope, tied to the Jetty joist at the top and to the pump discharge pipe at the bottom, is used to ensure the pump does not get washed away. A second Jetty pump found along the inside of the first pumps support column was initially installed as a back-up pump but, it has since been decommissioned ([\textcolor{blue}{Figure \ref{fig:pump2}}]{.underline}).
+
+```{r pump2, out.height = "50%", out.extra="angle=0", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The discharge pipe from the second jetty pump."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/pump2.jpg")
+```
+
+The main Power supply for the Jetty pump is provided by a separate Power unit found at the Jettys' entrance ([\textcolor{blue}{Figure \ref{fig:jettypower}}]{.underline}), which can be pseudo-controlled from the Aquariums' main control switchboard. To facilitate this control, the Jetty entrance power switch has to be turned to "auto."
+
+```{r jettypower, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The main, municipal power supply unit for the jetty pump, found at the jetty's entrance."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/jettypower.jpg")
+```
+
+## Maintenance
+
+*Last inspection: 16.8.2022*
+
+\textcolor{red}{The maintenance procedure described for the Jetty pump should be completed once every year}. \textcolor{red}{This can be done with the help of one of four commercial diving groups available in the area (Walvis bay diving and salvage, Dynamic commercial diving, Neptunam marine services or B-4 engineering and diving). However, because of Neptunam's close working relationship with the Ministry of Fisheries and Marine Resources, helping the Aquarium staff maintain the Jetty pump over several years, the continued use of their services is encouraged}.
+
+### Tool preparation \label{pump-tools}
+
+\textcolor{red}{All tools needed to carry out Jetty maintenance have to be packed prior to driving out to the the Jetty}.
+
+These include:
+
+-   1 x Large stainless steel ladder ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+    -   *Kept in the tunnel to the left of the National Aquarium entrance (door 89)*.
+    -   *Has hooks used to hang it off the Jetty ledge*.
+
+```{r ladder, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The stainless steel ladder, hanging from the exposed jetty rim joist, used by the divers to climb out of the water."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/jetty_pump/ladder.jpg"))
+```
+
+-   2 x Monkey wrenches ([\textcolor{blue}{Figure \ref{fig:jettytools}}]{.underline}).
+-   1 x size 21, 17, 14 and 13 spanner.
+-   1 x Big screw driver.
+-   5 x Cable ties ([\textcolor{blue}{Figure \ref{fig:jettytools}}]{.underline}).
+-   1 x Nylon rope.
+    -   *Red rope*.
+-   1 x Sharp knife.
+
+*The next six items are provided on site by Neptunam*.
+
+-   1 x Scraper ([\textcolor{blue}{Figure \ref{fig:jettytools}}]{.underline}).
+
+```{r jettytools, out.width = "55%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="Some of the equipment used by the divers during the jetty maintenance procedure.", fig.subcap=c('Scraper', 'Tool box with monkey wrenches, cable ties and screw driver')}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/jetty_pump/scraper.jpg","images/jetty_pump/tool_box.jpg"))
+```
+
+-   1 x Hard hat equipped with a Head lamp.
+-   1 x Diving cylinder.
+-   1 x Surface air supply line.
+-   1 x Rope with hook attached.
+
+```{r hookrope, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="Rope with hook attached."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics("images/jetty_pump/hookrope.jpg")
+```
+
+-   1 x Regular rope.
+-   1 x Wet suit.
+-   1 x Pair of scuba fins.
+
+1.  Pack all loose tools from the aquarium in a bucket ([\textcolor{blue}{Figure \ref{fig:jettytools}}]{.underline}).
+    -   *The bucket is used for convenience*.
+
+### Inspect Jetty pumps \label{inspect-jpumps}
+
+\textcolor{red}{The Neptunam diver will bring an extra employee along to help but}, \textcolor{red}{ensuring that 2-3 of the Aquariums' technical staff are available for this procedure is advisable}.
+
+2.  Transport the tools to the Jetty entrance by car and carry them out to the Jetty pump.
+    -   *Found on the right side of the jetty, right before the stairs leading up to the Jetty 1905 restaurant*.
+3.  Remove the Jetty floor boards to the right of the Jetty pump ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+    -   *This can be lifted by hand*.
+    -   *Done to expose the Jetty floor joist*.
+4.  Tie a rope to the end of the ladder.
+
+-   **Step 5 requires a minimum of 2 people (the large ladder is heavy)**.
+
+5.  Lower the opposite end of the ladder off the side of the Jetty, next to the Jetty pump ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+    -   *Make sure it's hooked onto the Jetty rim joist along its' outer edge and pressed against the lower Jetty support beam, to keep it from flailing around*.
+6.  Secure the ladder to the Jetty by tying the free end of the rope around one of the Jettys' guard rails ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+
+-   **Steps 7-10 will be completed by the diver**.
+
+7.  The diver will secure his/her diving gear and jump into the sea from the Jetty.
+
+-   **All tools required by the diver will be lowered down from the Jetty and lifted back up by a second person, using the hook rope** ([\textcolor{blue}{Figure \ref{fig:hookrope}}]{.underline}).
+
+8.  Inspect the Chamber brackets above and below water.
+9.  Inspect the Strainer and Jetty pump inlet for any blockage due to biofouling, and for signs of damage.
+10. Scrape off any biofouling organisms in and around the Jetty pump inlet, using the scraper ([\textcolor{blue}{Figure \ref{fig:jettytools}}]{.underline}).
+11. Help the diver remove any remaining pieces of cleaning equipment and excess diving gear i.e., the scuba fins.
+12. The diver can now climb out of the water using the ladder.
+13. Lift the ladder back up.
+
+\textcolor{red}{Read the "Jetty pump inspection report" in the "National Marine Aquarium" folder, for more details regarding the inspection work done by Neptunam}.
+
+<br>
+
+**If there are obvious signs of damage (steps 8 and 9) to the Chamber, Chamber brackets, Jetty pumps and/or Strainer, they will have to be repaired or replaced with new ones as soon as possible (see Section** [\textcolor{blue}{\ref{pump-replace}}]{.underline} for the Jetty pump repair protocol). \textcolor{red}{Contacts to help with repairs may vary depending on the type of damage or the damaged component}.
+
+### Repack maintenance equipment
+
+14. Pack and carry all MFMR equipment back to the car.
+15. Transport back to the Aquarium building.
+16. Repack all equipment in the appropriate storage rooms.
+
+## Repairs
+
+The Jetty pump feeds fresh water into the Aquarium, replacing approximately 25% of the systems' "used" sea water daily. If there are issues with the Jetty pump or any of its' corresponding components (e.g., pump motor burn out, broken strainer, blocked pump inlet), the Aquariums' sea water renewal function will be compromised. If left unchecked, the Aquariums' water quality will decline, resulting in the death of most of the display animals. The system can only be maintained on recirculated water for 10-14 days before mortality rates spike.
+
+### Problem diagnosis
+
+Problems with the Jetty pump are generally indicated by severely reduced or no intake flow rates. This can be seen from the Flow meter between the Foam fractionator and the Flocculation column ([\textcolor{blue}{Figure \ref{fig:flow-meter}}]{.underline}).
+
+```{r flow-meter, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="Flow meter used to indicate the flow rate of raw sea water into the Aquarium."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/jetty_pump/flow_meter.jpg"))
+
+```
+
+#### Pump failure troubleshooting \label{pump-shooting}
+
+Before inspecting the Jetty pump, some troubleshooting should be done first. These troubleshooting measures do not have to be followed in sequence. If the problem is identified after following any of these measures, all other troubleshooting steps can be ignored.
+
+-   Is the Jetty pump switch turned on.
+    -   *Found on the Main control switchboard*.
+    -   *If off, switch back on*.
+    -   *If switching back on does not work, try another of the troubleshooting measures*.
+-   Check the high water level in the compensation sump ([\textcolor{blue}{Figure \ref{fig:comp-sump}}]{.underline}) displayed on the Prosonic ([\textcolor{blue}{Figure \ref{fig:seacirc}}]{.underline}).
+    -   *At 100% the Level sensor unit (LU2) switches the Jetty pump off*.
+    -   *Switches back on automatically*.
+
+```{r comp-sump, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The compensation sump where most water in the aquarium system collects."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/plant_room/comp_sump.jpg"))
+
+```
+
+-   Is the Solenoid switch under the Jetty floor boards adjacent the Jetty pump switched on ([\textcolor{blue}{Figure \ref{fig:jetty-solswitch}}]{.underline})?
+    -   *Lift the Jetty floor boards at the location up to check*.
+    -   *Not the same floor boards described in Section (*[\textcolor{blue}{\ref{inspect-jpumps}}]{.underline}) step 3.
+    -   *If off, switch back on*.
+
+```{r jetty-solswitch, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The jetty solenoid switch (white box) can be used to cut the power supply to the jetty pumps."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/jetty_pump/jetty_solswitch.jpg"))
+
+```
+
+-   Are any of the switches in the municipal power supply box at the Jetty entrance off ([\textcolor{blue}{Figure \ref{fig:jettypower}}]{.underline})?
+    -   *If off, switch on*.\
+-   Have there been any power outages or is the municipal supply box currently receiving power?
+    -   *Power outages switch off the Jetty pump*.
+    -   *Check the meter reading to the right of the power switch*.
+    -   *Close the dump valve in the plantroom and wait for normal power supply to resume*.
+
+**For the last 3 bullets above, raw water intake via the Jetty pump can be restored by pressing Reset on the Main control switchboard. This has to be followed by pressing the Alarm cancel button as well (**[\textcolor{blue}{Figure \ref{fig:seacirc}}]{.underline}).
+
+\textcolor{red}{If the Jetty pump does not switch back on after troubleshooting, proceed to the next section}.
+
+### Tool preparation
+
+The general tools needed to resolve all potential, jetty pump related problems will likely be the same tools used in Section ([\textcolor{blue}{\ref{pump-tools}}]{.underline}).
+
+### Inspect Jetty pumps
+
+A closer inspection of the Jetty pump will reveal the exact cause of the issue.
+
+**See Section (**[\textcolor{blue}{\ref{inspect-jpumps}}]{.underline}) to follow the Jetty pump inspection procedure.
+
+**Sections (**[\textcolor{blue}{\ref{pump-motor}}]{.underline}) and ([\textcolor{blue}{\ref{lost-strainer}}]{.underline}) serve as examples of Jetty pump issues, and their sub-sections as the respective approaches used to resolve each problem. Both will require the help of a suitable, commercial dive team (divers and technical assistants). This work can be done by Neptunam (contact Gerrie le Roux).
+
+### Broken pump motor \label{pump-motor}
+
+If there is no intake water flow and no obvious physical indication of a problem with the Jetty pump other than the reading from the flow meter, a broken pump motor is the likely cause of the problem. This can only be confirmed after all troubleshooting has been completed ([\textcolor{blue}{Section \ref{pump-shooting}}]{.underline}).
+
+\textcolor{red}{New pumps can be obtained from Aqua Services and Engineering (contact Mr. Jan Marais) or ConServ Engineering Services (contact Mr. Marco Leuschner), but check Store room 30 for spares first}.
+
+#### Jetty pump replacement \label{pump-replace}
+
+1.  Lift up the Jetty floor boards next to the Jetty pump ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+2.  Stop the Jetty pump by turning off its' power supply in the Main power supply box at the Jetty entrance ([\textcolor{blue}{Figure \ref{fig:jettypower}}]{.underline}).
+    -   *This step provides added security against being electrocuted while working on the Jetty pump*.
+3.  Turn off the Solenoid switch found under the Jetty floor boards further away from the pump ([\textcolor{blue}{Figure \ref{fig:jetty-solswitch}}]{.underline}).
+4.  Wrap the red nylon rope ([\textcolor{blue}{Section \ref{pump-tools}}]{.underline}) around the jetty Guard rails.
+5.  Feed the opposite end through the PVC tubes and the Chamber, down to the divers, who will tie it to the Jetty pump.
+    -   *Multiple divers will assist with this procedure*.
+    -   *Each diver will jump into the ocean as described in Section (*[\textcolor{blue}{\ref{inspect-jpumps}}]{.underline}).
+6.  Uncouple the Jetty pump inlet pipe from the pipe carrying water to the aquarium at the L-shaped pipe connector ([\textcolor{blue}{Figure \ref{fig:pump-elbow}}]{.underline}).
+    -   *Use a monkey wrench*.
+    -   *This will drain all water out of the pipe from the connection point towards the pump*.
+    -   *This can be found on the outside of the Jetty guard rails next to the pumps support column*.
+
+```{r pump-elbow, out.width = "50%", out.extra="angle=270", include=TRUE, fig.align="center", echo=FALSE, fig.cap="The jetty pump's L-shaped pipe connector found on the outside of the jetty's rim joist."}
+
+# r, out.width="0.9\\linewidth", include=TRUE, fig.align="center", fig.cap=c("your caption"), echo=FALSE}
+
+knitr::include_graphics(c("images/jetty_pump/pump_elbow.jpg"))
+
+```
+
+7.  Disconnect the pumps electric cable found at it's solenoid switch ([\textcolor{blue}{Figure \ref{fig:jetty-solswitch}}]{.underline}).
+8.  Pull the Jetty pump up and onto the Jetty floor using the attached nylon ropes.
+    -   *Pull it through the Jetty strainer chamber and protective PVC tubes* ([\textcolor{blue}{Figure \ref{fig:strainer}}]{.underline}).
+9.  Remove the old Jetty pump and install the new one.
+    -   *Done by the dive team*.
+10. Once installed, lower the Jetty pump back down through the tube and Chamber system.
+11. Rejoin the Jetty inlet pipe to the rest of the Aquarium feed pipe at the L-shaped connector ([\textcolor{blue}{Figure \ref{fig:pump-elbow}}]{.underline}).
+12. Reconnect the electric cable.
+13. Turn the Solenoid switch back on ([\textcolor{blue}{Figure \ref{fig:jetty-solswitch}}]{.underline}).
+14. Turn the Main power supply back on ([\textcolor{blue}{Figure \ref{fig:jettypower}}]{.underline}).
+15. Press the Reset button on the Main control switchboard to restart the Jetty pump.
+16. Press the Alarm cancel button next to the Reset button ([\textcolor{blue}{Figure \ref{fig:seacirc}}]{.underline}).
+    -   *The Jetty pump alarm is triggered when the Jetty power supply is disconnected*.
+
+### Broken/lost pump strainer \label{lost-strainer}
+
+Issues with the Strainer usually materialize when it is blocked by biofouling or when its' support brackets are knocked off by rough ocean conditions, possibly resulting in the loss of the Strainer. When this happens, loose biological material (i.e., broken off pieces of kelp and mussels) can block the pump inlet, which ultimately manifests in a reduced flow rate into the Aquarium system. When the issue is caused by biofouling, diving down and scraping the growth off ([\textcolor{blue}{Section \ref{inspect-jpumps}}]{.underline}) will suffice. In the case of a lost strainer, a new Strainer along with support brackets would have to be installed as soon as possible to prevent any damage to the Jetty pump. If the Jetty pump has been damaged due to a lost/damaged strainer, follow the Jetty pump replacement procedure explained in Section ([\textcolor{blue}{\ref{pump-replace}}]{.underline}) above before proceeding to the next section.
+
+\textcolor{red}{A new Strainer and support brackets can be obtained from and installed by Neptunam (contact Gerrie le Roux). Check Store room 30 for spares first}.
+
+#### Pump strainer replacement
+
+**The Jetty pump has to be removed (**[\textcolor{blue}{Section \ref{pump-replace}}]{.underline}) before the Strainer can be replaced.
+
+1.  Lift up the Jetty floor boards next to the Jetty pump ([\textcolor{blue}{Figure \ref{fig:ladder}}]{.underline}).
+2.  Stop the Jetty pump by turning off its' power supply in the Main power supply box at the Jetty entrance ([\textcolor{blue}{Figure \ref{fig:jettypower}}]{.underline}).
+    -   *This step provides added security against being electrocuted while working in that area*.
+3.  Turn off the Solenoid switch found under the Jetty floor boards.
+4.  Wrap a few nylon ropes around the jetty Guard rails.
+5.  Throw the opposite ends down to the divers.
+    -   *Multiple divers will assist with this procedure*.
+    -   *Each will jump into the ocean as described in Section (*[\textcolor{blue}{\ref{inspect-jpumps}}]{.underline}).
+6.  The divers will tie the ropes to the Pump Strainer and Chamber.
+    -   *Done to ensure they are not swept away by the sea*.
+
+-   **All tools required by the divers can be lowered down to them as described in Section (**[\textcolor{blue}{\ref{inspect-jpumps}}]{.underline}).
+
+7.  Once secured, the divers can decouple the Chamber from the lower PVC tube.
+
+-   **Step 8 requires a minimum of 5 people (the Strainer and Chamber are very heavy)**.
+
+8.  Lift the Strainer and Chamber onto the Jetty floor using the attached nylon ropes.
+9.  Pull the Jetty pump up and onto the Jetty floor using the attached nylon ropes.
+10. Undo the nylon ropes tied around the Strainer and Chamber.
+11. Tie the ropes to the replacement parts.
+12. Lower the new protective parts into the water.
+13. The dive team will reattach them to the PVC tube.
+14. Once the installation is complete, remove the nylon ropes from the protective parts and the Jetty guard rails.
+
+**Refit and restart the Jetty pump as described in steps 9-16 of Section (**[\textcolor{blue}{\ref{pump-replace}}]{.underline}).

@@ -1,0 +1,364 @@
+# Feed
+
+## Feed procurement
+
+The Aquarium procures an annual consignment of $\pm$ 5400 kg of feed, usually consisting of $\frac{2}{3}$ hake and $\frac{1}{3}$ squid, for the display animal's. While other commercial feed supply companies can be used (e.g., Erongo marine enterprises and Seawork fish processors), Namsov fishing enterprises and Tunacor are the preferred suppliers because they have proven to be the cheapest and most reliable options.
+
+[The availability of squid varies annually]{style="color: red"}.
+
+### Order the feed
+
+Because this is a high value procurement ($\pm$ N\$85 000), the RFQ procedure usually has to be followed (Section ???) before feed can be obtained.
+
+### Feed collection
+
+Since fish can not be kept fresh for long periods of time, the feed is only collected every 8-10 weeks in 900kg batches. These are supplied as either 30 x 30kg boxes (@fig-feed-thirty), containing 3 x 10 kg slabs each, or as 90 x 10 kg boxes that are not subdivided (@fig-feed-ten).
+
+::: {#fig-feed-boxes layout-ncol="2" fig-pos="H"}
+![30kg feed box](images/feed/30kg2.jpg){#fig-feed-thirty}
+
+![10kg feed box](images/feed/10kg2.jpg){#fig-feed-ten}
+
+Image of the boxes used to package the display animal's feed for transport and storage.
+:::
+
+[Only one technical member of staff is required to collect the feed]{style="color: red"}.
+
+1.  One of the supplier's operators will contact an Aquarium research technician, to provide an estimated time of arrival for the fresh feed at Namport.
+2.  Book the Cruiser for that day (Section ???).
+3.  Send the vehicle's licence plate number, as well as the name and ID number of the person collecting the feed, to the operator.
+4.  Make sure you have your Port access card (Section ???).
+5.  Drive to the Commercial harbour (Section ???) and park next to the freezer units at the wet docks (pic).
+
+-   *If there is no space available, you may have to stop at the car park found on the left hand side of the final entrance blockade, before the Commercial ship docks*.
+
+6.  Report to the wet docks control office and give the operators the vehicle registration number.
+
+-   *The office can be found on the first floor, up the stairs to the right, immediately after entering the freezer unit*.
+-   *Ask one of the employees inside the freezer unit for directions, if you can not find the control office*.
+
+7.  Go back down to the car
+8.  Wait for the order to be prepared and carted out to you.
+9.  Verify that the number of boxes brought out, match the number ordered.
+10. Sign the receipt.
+11. The employees stationed in that area will help load the boxes onto the back of the Cruiser.
+12. Leave the Commercial harbour.
+13. Visit the nearest service station and fill the cars tyres back up to 2.4 bar.
+
+-   *The added weight might significantly decrease the tyre pressure*.\
+
+14. Drive back to the Aquarium.
+
+### Feed packing
+
+15. Park next to the rear entrance (@fig-rear-entrance).
+
+-   *Large double door entrance between the Quarantine area and the ocean*.
+
+16. Bring the Aquarium's trolley cart to the rear entrance (@fig-trolley).
+
+-   *The trolley is kept behind the two small, deep fridges in the Aquarium section underneath the Auditorium*.
+
+::: {#fig-feed-packing layout-ncol="3" fig-pos="H"}
+![Rear entrance](images/feed/rear_entrance2.jpg){#fig-rear-entrance}
+
+![Trolley](images/feed/trolley2.jpg){#fig-trolley}
+
+![Freezer room](images/feed/freezer2.jpg){#fig-freezer}
+
+The different components required to pack and store the feed within the Aquarium.
+:::
+
+17. Off load and pack a fraction of the total boxes onto the trolley.
+18. Push the loaded trolley to the Aquarium Freezer (@fig-freezer).
+
+-   *Kept at approximately -25*$^\circ$C.
+
+19. Open the Freezer door and pack the boxes into the Freezer.
+
+-   *The freezer can be found on the Aquarium's ground floor, directly beneath the Feed room*.
+
+-   **Repeat steps 16 - 19 until all the boxes of feed have been packed into the Freezer**.
+
+20. Indicate the amount and type of feed packed into the Freezer room on the Feed log sheet (@fig-feed-logsheet).
+
+-   *Kept in the Feed preparation room/"Feed room" (Nr. 171), located to the left of the Main tanks top section on the Aquarium's top floor* (@fig-feed-prep).
+
+::: {#fig-feed-track layout-ncol="2" fig-pos="H"}
+![Feed log sheet](images/feed/feed_log2.jpg){#fig-feed-logsheet}
+
+![Feed preparation room](images/feed/feed_prep12.jpg){#fig-feed-prep}
+
+The Feed log sheet is kept in the Feed room to help keep track of the amount of feed bought and used within the Aquarium.
+:::
+
+21. Follow the vehicle return procedure (Section ???).
+
+## Animal feeding
+
+All animals kept in captivity have to be fed regularly to guarantee their well being. In the Aquarium, this is done by either the Technical assistants or by divers (volunteers or Aquarium technicians). Feeding occurs everyday at 15h00, without exception.
+
+### By Technical assistants
+
+The Technical assistants are responsible for preparing the feed everyday. They also hand feed the animals from the tops of their respective display tanks everyday except Tuesdays, Saturdays and Sundays, if a diver is available.
+
+[Only one Technical assistant is required to prepare the feed and to feed the animals per day]{style="color: red"}.
+
+#### Tools
+
+**Most of the tools required can be found in the Feed room (Section ???), in the Workshop (Nr. 162) or Diver preparation area (Section ???)**.
+
+These include:
+
+-   1 x Apron.
+-   1 x Pair of rubber gloves.
+-   1 x Wooden cutting board (@fig-feed-bench).
+-   1 x Sharp knife.
+-   2 x Round bucket.
+-   1 x Modified divers bucket (@fig-diver-bucket).
+    -   *Has a rubber cover, with a slit opening cut through its center, clamped over the top of the bucket and a rubber cover clamped over the bottom of the bucket*.
+-   1 x Feed log sheet.
+-   1 x Knife sharpener.
+-   1 x Large tray (@fig-feed-tray).
+    -   *1m Long*.
+
+::: {#fig-feed-tools layout-ncol="3" fig-pos="H"}
+![Feed bench](images/feed/feed_bench2.jpg){#fig-feed-bench}
+
+![Feed bucket](images/feed/round_bucket12.jpg){#fig-feed-bucket}
+
+![Feed tray](images/feed/large_tray2.jpg){#fig-feed-tray}
+
+Some of the tools used to prepare the feed and to feed the display animals.
+:::
+
+**The number of different diving gear items used depends on the number of divers on the day which, does not normally exceed two**.
+
+-   Air cylinders (10m$l$)
+-   Wet or dry suits (@fig-wet-suit).
+    -   *Depends on the diver(s)*.
+-   Diving fins (@fig-diving-fins).
+    -   *Referred to as Fins throughout*.
+-   Diving masks
+-   Buoyancy control device (@fig-bcd).
+    -   *Commonly called the BCD*.
+-   Nylon gloves
+-   Diving regulators (@fig-regulator).
+    -   *Referred to as the Regulator throughout*.
+
+::: {#fig-dive-tools layout-ncol="2" fig-pos="H"}
+![Wet suit](images/dive_cylinders/wet_suit2.jpg){#fig-wet-suit}
+
+![Diving fins](images/dive_cylinders/flippers2.jpg){#fig-diving-fins}
+
+![Regulator](images/dive_cylinders/regulator2.jpg){#fig-regulator}
+
+![bcd](images/dive_cylinders/BCD2.jpg){#fig-bcd}
+
+Important pieces of diving attire required to move and breathe comfortably under water.
+:::
+
+-   1 x Diver log sheet (@fig-dive-log).
+
+![The diver log sheet, kept in the diver preparation area.](images/dive_cylinders/dive_log2.jpg){#fig-dive-log width="50%" fig-pos="H"}
+
+#### Feed preparation
+
+[See Section ??? for a description of the Feed boxes and their contents]{style="color: red"}.
+
+The animals are generally fed $\pm$ 15kg ($1\frac{1}{2}$ slabs from the 30kg box or $1\frac{1}{2}$ 10kg boxes) of food daily. However, the daily amount can be adjusted according to the animals' voracity and the Aquarium's stocking density. Only give the animals 10kg of feed if there are large amounts of feed leftover from the previous day and 20kg if there is consistently no food leftover, each day, for several days. The animals are rarely fed 20kg in one day.
+
+1.  Collect frozen feed from the Freezer room using the large tray.
+2.  Leave the frozen food in the Feed room to thaw.
+3.  Throw the used Feed box away if it is empty or put the box back in the Freezer if it is not.
+4.  The animal feed is generally allowed to thaw overnight ($\pm$ 23hrs) or for $\pm$ 6hrs on the day of feeding.
+
+-   *If the frozen feed is less than 6 weeks old, thaw overnight. If not, thaw on the same day to prevent unpleasant odors*.
+
+5.  Put on appropriate feed preparation attire.
+
+-   *Apron and gloves*.
+
+6.  Move the thawed fish to one of the round buckets.
+7.  Set the Feed preparation bench (@fig-feed-bench).
+
+-   *Get the Feed bucket (second round bucket or Diver's bucket), cutting board and knife ready*.
+
+8.  Prepare the feed according to the display animal's size and the feed type.
+
+-   *Large animals e.g., Dusky kob, Garrick*
+
+    -   *Small Pilchards/Horse mackerel can be fed whole*.
+    -   *The heads and backbones of large Hake pieces have to be removed before they are cut into medium sized pieces*.
+
+-   *Medium sized animals e.g., Glajoen, Steenbra*.
+
+    -   *The heads and backbones of all fish feed pieces have to be removed*.
+    -   *All feed has to be cut into small pieces*.
+
+-   *Small animals e.g., Sea anemones, Klipfish, Shyshark*.
+
+    -   *Feed is either crushed between the feeder's hands or small pieces are torn off (not done for Section ???)*.
+
+-   *When the feed is cut into smaller pieces, they are all cut vertically along the lateral line, irrespective of feed type or size*.
+
+-   **The knife can generally be sharpened every two weeks or if it becomes dull**.
+
+9.  Put all prepared feed into the divers' bucket if a diver is available (@fig-diver-bucket).
+
+![The second feed bucket, from which the Aquarium's display animals are normally fed by divers](images/feed/diver_bucket2.jpg){#fig-diver-bucket width="50%" fig-pos="H"}
+
+#### Feed administration
+
+Two thirds of all prepared feed is given to the animals in the main tank and the rest to the animals in the smaller tanks. The remaining feed is distributed among the small tanks according to the number and size of the animals inside them.
+
+10. Take the Feed bucket to the Main tank feeding spot, right outside the Feed room (@fig-mt-border).
+11. Rest the Feed bucket on the boundary wall top (@fig-mt-border).
+
+![The Main tank boundary wall, which acts as the Aquarium staffs' primary feeding location.](images/feed/mt_border2.jpg){#fig-mt-border width="50%" fig-pos="H"}
+
+12. Throw handfuls of food across the entire water surface at short 1-2 minute intervals.
+13. Take the Feed bucket to the Pelagic tank (@fig-pelagic-tank), found in the Aquarium's main display area on the ground floor.
+
+-   *Circular tank with South African mullet fish*.
+
+14. Put the Feed bucket on the floor.
+15. Open the small wooden hatch (@fig-pelagic-hatch), found at the top of the Pelagic tank, and throw the food in.
+
+::: {#fig-pelagic layout-ncol="2" fig-pos="H"}
+![Pelagic tank](images/feed/pelagic2.jpg){#fig-pelagic-tank}
+
+![Pelagic hatch](images/feed/pelagic_hatch2.jpg){#fig-pelagic-hatch}
+
+The Pelagic tank and it's wooden hatch, built into the tank's wooden frame near the Aquarium first floor ceiling.
+:::
+
+16. Take the feed to the Touch pool (@fig-touch-pool), in front of the receptionist's desk.
+
+-   *Short tank with the Ray sharks*.
+
+![The Aquarium touch pool houses skates and rays.](images/feed/touch_pool2.jpg){#fig-touch-pool width="50%" fig-pos="H"}
+
+17. Rest the Feed bucket on the boundary wall top.
+18. Throw some of the feed into the tank.
+19. Take the Feed bucket to the back of the remaining small display tanks (@fig-st-back), behind the CFRT's office.
+20. Throw feed into these tanks, sequentially, from right to left.
+
+-   *Rinse hands with water inside the Sea anemone tank after crushing some feed between your fingers (Section ???)*.
+-   *Only small torn off pieces of feed (Section ???) should be thrown into the Shyshark and Klipfish tank*.
+
+::: {#fig-small-tanks layout-ncol="2" fig-pos="H"}
+![Front end](images/feed/st_front2.jpg){#fig-st-front}
+
+![Back end](images/feed/st_back2.jpg){#fig-st-back}
+
+The front, viewable end and the back, service end of the Aquarium's small tanks, found behind the Receptionist's desk.
+:::
+
+21. Take the empty Feed bucket back up to the Feed room.
+22. Record the amount and type of feed used in the Feed log sheet (@fig-feed-logsheet).
+23. Clean and pack all used tools, and Feed preparation attire away.
+
+### By divers
+
+If the Research technicians have valid diver's licenses or if recreational divers are available to assist with feeding, feeding by diving is generally done on the days specified in Section ???.
+
+#### Diver preparation
+
+The divers always prepare for diving sessions in the Diver preparation area (Section ???).
+
+1.  Put the diving suit on.
+2.  Conduct a quick inspection of the Air cylinders (Section ???) to ensure that they are not significantly damaged.
+
+-   *Cylinder condition is usually determined during Air cylinder testing (Section ???) but, between cylinder condition should be assessed routinely (between each diving session) for safety reasons*.
+-   *Make sure the Cylinders air outlet o-ring is clear of any defects*.
+
+3.  Secure the BCD to the Air cylinder.
+
+-   *The tank's outlet valve and the BCD neck should be approximately aligned*.
+
+4.  Make sure the Cylinder's outlet valve is closed.
+
+-   *Clockwise to close*.
+
+5.  Remove the Regulator's dust cap (@fig-dust-cap).
+
+-   *In place to protect the Regulator's filter from dust when it is not in use*.
+
+6.  Fasten the Regulator to the Cylinder's air outlet.
+
+-   *The Regulator mouth piece should be on the right hand side*.
+-   *Tighten the Regulator's yoke screw with your hands* (@fig-yoke-valve).
+
+::: {#fig-dive-prep layout-ncol="2" fig-pos="H"}
+![Dust cap](images/dive_cylinders/dust_cap2.jpg){#fig-dust-cap}
+
+![Yoke valve](images/dive_cylinders/yoke_valve2.jpg){#fig-yoke-valve}
+
+Picture displaying some of the diving gear components that need to be inspected during diver preparation.
+:::
+
+7.  Connect the Low pressure inflator to the BCD.
+8.  Secure the Alternate mouth piece to the BCD vest.
+9.  Inspect the Cylinder's air pressure to determine if there is enough air.
+
+-   *Open the Outlet valve slowly at first and then completely open it*.
+    -   *One turn anti-clockwise after opening it completely*.
+-   *The Cylinder's manometer should have a reading of* $\pm$ 200 bar.
+
+10. Put the BCD on, along with its assembled components.
+11. Put on the gloves (@fig-dive-gloves).
+12. Carry the Fins to the Main tank feeding spot (Section ???).
+
+![The nylon gloves worn by the divers during diving sessions.](images/dive_cylinders/dive_gloves2.jpg){#fig-dive-gloves width="50%" fig-pos="H"}
+
+#### Feed preparation
+
+**See Section ???**
+
+#### Feed administration
+
+The Feed is distributed among the Aquarium display tanks in the same proportions described in Section ???. The divers only feed the animals in the Main tank, whereas animals in the remaining tanks are fed by the TAs (Section ???).
+
+23. Take the filled Diver bucket to the Main tank.
+24. Rest the Diver bucket on the boundary wall top.
+25. Put the Fins on.
+26. Get into the water
+27. Put on the mouth piece and Diving mask.
+28. Grab the bucket and dive to the bottom of the Main tank.
+
+-   *Control your buoyancy by inflating/deflating the BCD*.
+
+29. The divers feed the animals in one of two main ways. By:
+
+-   *Letting the animals take the food directly from their hands*.
+-   *Throwing the food right in front of or above themselves and letting the animals take the food from the water column*.
+    -   *Recommended when the Dusky kob approach*.
+
+30. Resurface once the feeding session in the Main tank is complete.
+
+-   *Inflate the BCD*.
+
+#### End diving session
+
+30. Remove the mouth piece.
+31. Rest the Diver bucket on the boundary wall top.
+32. Take the Fins off and throw them out of the Main tank.
+33. Climb out of the Main tank.
+34. Take off the Mask.
+35. Take the Diver's bucket back to the Feed room.
+36. One of the TAs will complete the procedure described in Steps 21-23, Section ???.
+37. Carry the Fins back down to the Diver preparation area.
+38. Remove the gloves.
+39. Take the Alternate mouth piece off the BCD.
+40. Remove the BCD.
+41. Disconnect the Low pressure inflator from the BCD.
+42. Close the Cylinder's outlet valve.
+43. Loosen the Regulator Yoke screw.
+44. Take the Regulator off the Cylinder's air outlet.
+45. Decouple the Cylinder from the BCD.
+46. Pack all diving gear away neatly, in their respective storage spaces.
+
+-   **The diver can take a warm shower at this stage, if they feel the need**.
+
+46. Record all details of the dive in the Diver log sheet (@fig-dive-log).

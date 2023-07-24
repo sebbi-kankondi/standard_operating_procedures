@@ -1,0 +1,5 @@
+# Preface {.unnumbered}
+
+This document provides a detailed compilation of the procedures, long and short term, required to keep the National Marine Aquarium at the National Marine Information and Research Center (NATMiRC) operational. Despite the author's best efforts to generate a stand-alone document, further reading of several technical documents held within the offices of the Aquarium's technicians is encouraged and indicated where necessary. All standard operating procedures were compiled using a combination of these texts and the technicians' personal accounts of their work in the Aquarium. Therefore, the sequences for some of the procedures described within this document are not carved in stone but, should still be followed as closely as possible to avoid making serious mistakes.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.

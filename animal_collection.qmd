@@ -1,0 +1,235 @@
+# Sample collection {#sec-sample-collection}
+
+The Aquarium only displays live marine animals found along the Namibian coast. They have to be collected to keep the Aquarium's display tanks stocked, particularly when replacing dead or sick individuals. This is generally done by the Technical assistants but, animal collection trips may also include the Aquarium's technicians. Animal collection is achieved via several methods, including, Aquarium staff sampling efforts along nearby rocky and sandy shores; liaising with frequent sport anglers willing to donate some of their catch; obtaining specific animals with the help of open water survey crews dispatched on the research vessels and by accepting live display animal donations from recreational divers.
+
+## Aquarium staff
+
+Sample collection by aquarium staff is only done to collect some of the intertidal species, mainly for the Aquarium's small display tanks, because these are easily accessible. However, sampling in the intertidal is normally restricted to spring low tides during normal work hours. Overtime arrangements have to be made if sampling needs to be done outside of work hours.
+
+[This can be completed by two members of staff.]{style="colour: red"}
+
+### Tool preparation {#sec-collect-tool}
+
+**Most of the tools required can be found in the quarantine area or in the workshop (room 162)**.
+
+These include:
+
+-   2 x waders.
+-   1 x small mosquito fish net.
+    -   *Edges knit together to create a funnel with a closed tapered end*.
+-   buckets.
+    -   *Number of buckets depends on number of animals being collected*.
+    -   *Make sure there are enough*.
+-   2 x fish scoop nets.
+-   2 x pair of work gloves.
+-   2 x small scrapers.
+-   2 x knives
+
+**The item list above was drafted with only two staff members in mind**. **Pack accordingly**.
+
+### Sample sites
+
+This section lists some of the sample sites frequented by Aquarium staff during sampling trips and the associated intertidal animals and respective collection methods.
+
+**All fish can be caught using the mosquito net**.**Two members of technical staff will hold the top and bottom of the net, keeping it open under water whilst wading to trap any fish in the funnel**.
+
+-   Longbeach tidal pool area.
+    -   *One of the more commonly visited sites*.
+    -   *Longbeach is a small residential area found between Swakopmund and Walvis bay*.
+    -   *Large tidal pool can be found on the far right (North) end*.
+    -   Animals found here include:
+        -   Silver side fish (*Chelon richardsonii*)
+            -   *Inside the tidal pool*.
+        -   Dassies/Blacktail (*Diplodus sargus capensis*)
+            -   *Inside the tidal pool*.
+        -   Brittle star fish (*Ophioderma wahlbergi*)
+            -   *Found buried under sand in intertidal sandy shores or under low shore rocks*.
+            -   *Collect them by hand*.
+        -   Klipfish (*Clinus venustris*)
+            -   *In the tidal pool*.
+        -   White mussels (*Donax serra*)
+            -   *Found buried in the intertidal sandy beach, normally towards the end of the wave swash*.
+            -   *Located via a process commonly known as the "Mussel jive" (swivel heel of foot in the sand using a windshield wiper motion until you feel the mussel) during receding waves of the receding low tide*.
+            -   *Can then be dug up by hand*.
+-   Baddewanne rocky shore.
+    -   *Also commonly visited, particularly to collect Ulva to feed the Sea hares and limpets for the Rock suckers*.
+    -   *First stretch of rocky shore between Swakopmund and Longbeach*.
+    -   Animals found here include:
+        -   Granite limpet (*Cymbula granatina*)
+            -   *Attached to mid shore rocks*.
+            -   *Removed from the rocks by carefully and quickly sliding the small scraper underneath each limpet's foot*.
+        -   Redbait (*Pyura stolonifera*)
+            -   *Attached to low shore rocks*.
+            -   *Detach the Redbait pods from their substrate by hand*.
+        -   Namibian cushion starfish (*Asterina stellifera*)
+            -   *Collected from low shore rock crevices and under small boulders by hand*.
+        -   Sea hare (*Aplysia spp*)
+            -   *Found in under medium sized boulders in rocky intertidal*.
+            -   *Can be caught by hand and placed in bucket*.
+        -   Black sea cucumber (*Holothuria atra*)
+            -   *Low shore rock crevices and in rock pools*.
+            -   *Collected by hand*.
+        -   Crumb-of-bread sponge (*Hymeniacidon perlevis*)
+            -   *Low shore rock crevices and rock overhangs*.
+            -   *Lift the substrate (small rocks or molluscs) up with the animal attached*.
+-   Luderitz rocky shore.
+    -   *Hardly ever visited*.
+    -   *Southern coast of Namibia, Swakopmund*.
+    -   Animals found here:
+        -   Sandy anemones (*Bunodactis reynaudi*)
+            -   *In intertidal sandy shores*.
+            -   *Carefully remove the base from the substrate or lift the substrate up with the animal attached*.
+        -   Cape sea urchin (*Parechinus angulosus*)
+        -   *Flat area of low shore rocks*.
+
+### Collect animals
+
+1.  Identify spring low tide periods that coincide with normal work hours.
+2.  Book one of the vehicles available to Aquarium staff members.
+3.  Pack and prepare the vehicle for the sampling trip.
+4.  Drive out to the sample site/(s).
+    -   *The sample sites are determined by known specimen locations and chosen according to the need for particular specimens*.
+    -   *Multiple sites can be visited on a day with good low tide, granted they are not too far apart*.
+5.  Remove the sample kit from the car and prepare for sampling.
+    -   *This includes putting the waders and work gloves on if necessary*.
+    -   *Do not leave the car unlocked*.
+
+-   **Sample kit preparation will vary according to the animals being collected** .
+
+6.  Collect the desired animals and put them in buckets filled with water.
+    -   *The amount of water used depends on the number of animals collected*.
+7.  Transport the samples back to the Aquarium.
+    -   *Because the sites visited are close to the Aquarium, the water does does not need to be aerated and no extra measures need to be taken to keep it cool during transit*.
+8.  Upon return to the Aquarium, prepare the collected animals' respective tanks.
+    -   *This is done by the technical assistants*.
+    -   *Includes any lighting adjustments that need to be made and partially draining the tank to facilitate an easier introduction*.
+9.  Sort and place the animals in their tanks.
+    -   *Pre-introduction quarantine protocols are not followed for display animals from the intertidal*.
+10. Follow the vehicle return procedures outlined in @sec-vehicle-return
+11. Implement the appropriate Quarantine protocol (@sec-q-protocol).
+12. Clean and pack all used tools.
+13. Place the newly collected animals into their designated display tanks.
+
+## Divers
+
+### Sample sites
+
+<!-- for different section -->
+
+<!-- + Mowe bay -->
+
+<!--    + *Hardly ever visited* -->
+
+<!--    + Animals found here: -->
+
+<!--       + Cape urchins - sub-tidal -->
+
+<!--       + Short-spined urchins - sub-tidal -->
+
+## Anglers
+
+### Collection tank
+
+The aquarium has one large, 1000$l$ capacity, fiberglass, sample collection tank that is used to house animals during long sampling trips (several hours - weeks) or large species that can not be kept in small buckets e.g., Steenbra, Dusky kob, Gully shark, etc. It has one inlet for the sample animals and sea water, and no outlet.
+
+## Research vessels
+
+The MFMR currently uses two research vessels, the RV Mirabillis and RV !Anichab, to meet it's annual open water survey targets. Research vessel (RV) survey teams are only approached to aide in the acquisition of new display animals when the desired animals can not be accessed via the other three avenues e.g., to collect Deep sea red crab. When making use of an RV, the Aquarium technicians either make arrangements with the survey crew leadership to obtain and take care of the animals until the RV docks, or for one of the Aquarium staff members to be sent along with the RV to take care of the animals during transit.
+
+### Port access
+
+A port access card is required for admission into the Namibian harbour at Walvis Bay (Namport).
+
+1.  Contact Mr. Bartholomae, to write a letter requesting the issuance of access cards for the relevant Aquarium staff members.
+    -   *Access cards are only issued to Aquarium Technicians and TAs*
+2.  Book the Cruiser and/or Corolla (@sec-book-vehicle).
+3.  Make a copy of your ID.
+    -   *Does not have to be certified*.
+4.  Drive to the Namport Customer services office, found on the right side, right before the entrance to the Commercial harbour (wet dock).
+    -   *The Commercial harbour is North of the Namport head office*.
+5.  Hand all relevant documents in to the official on duty.
+    -   *Copy of ID and letter from Mr. Bartholomae*.
+    -   *An access card will be issued on site after your picture is taken*.
+
+[Port access cards only need to be renewed once a year]{style="colour: red"}.
+
+These can be obtained as part of an already scheduled visit to Namport to complete an unrelated task but, it is advised that plans to acquire access cards be kept separate from any other activity in case there is a delay at customer services.
+
+### Sampling procedure
+
+Regardless of the arrangements made, the Aquarium's Sample tank and any accompanying tubes have to be provided prior to the RVs departure, to facilitate the collected animals' care during transit. After the RV's return from it's survey trip, the animals have to be collected at Namport and transported back to NATMiRC.
+
+#### Deploy sample tank
+
+1.  Contact the crew leader/(s) to request the extraction of the display animals as part of the survey.
+    -   *Different surveys are allocated different crew leaders according to the study species*.
+2.  Schedule a date and time to transport and load the large sample tank onto the RV before it departs.
+3.  Book the Cruiser (@sec-book-vehicle).
+4.  Load the Sample tank onto the back of the car.
+    -   *This will require the help of up to 4 technical Aquarium staff members*.
+5.  Prepare for travel.
+    -   *Two members of the Aquarium's technical staff should take this trip*.
+6.  Drive to the Namport dry docks and park next to the docked RV.
+    -   *The Dry dock is South of the Namport head office*.
+    -   *The port access cards have to be presented at the entrance*.
+7.  Report to the survey crew leader.
+    -   *e.g., Eric Maletsky is currently in charge of the crab biomass surveys*.
+    -   *He/she will arrange for either a group of people to help carry the tank onto the RV or for one of it's cranes to help lift it on board*.
+
+#### Tank preparation and animal sampling
+
+8.  Load the large tank onto the RV.
+
+-   **Steps 9-11, 14 and 18 ensure the tank has a constant supply of fresh sea water and will be done with the help of the crew leader**.
+
+9.  Connect a large pipe to the Bilge pump outlet.
+10. Tie a few ball sinkers (.\> 500g) along the last 30cm of the pipe's opposite end, using fishing wire.
+    -   *Done to keep this end of the pipe submerged once the sample tank has been filled with water*.
+11. Drop the weighted end of the pipe into the sample tank.
+12. The RV will depart for the survey after all necessary preparations have been made.
+13. Once the desired animals are located, they will be caught using one of several fishing techniques generally used by the RVs e.g., swept area trawling, deep sea trawling, traps, etc.
+    -   *Sophisticated acoustics technology is used to locate the animals*.
+14. Switch the Bilge pump on manually at the boat's helm, before bringing the animals on board the RV.
+    -   *Leave it running for the duration of the RV's trip*.
+15. Place the animals in the tank after it has filled up.
+16. Inspect the tank daily.
+    -   *Done to detect any dead animals or any issues with the fresh sea water circulation system*.
+17. Remove any dead animals as soon as they die.
+18. Fix any issues with the water circulation system.
+    -   *Clear the pipe inlet if it is blocked and make sure it is weighted to the bottom of the tank*.
+
+-   **Daily monitoring of the tank (Steps 15-18) can be done by one of the Aquarium's staff members, if arrangements are made to have one join the survey crew**.
+-   **Otherwise, the crew leader can be asked to ensure these tasks are fulfilled**.
+
+19. Switch the Bilge pump off within 1km of the harbour.
+    -   *Water close to the harbour may be heavily polluted and mixing it with the water in the tank should be avoided*.
+
+#### Collect sample animals
+
+20. The skipper or survey crew leader will provide an estimated time of arrival before the RV returns to Namport.
+    -   *This information will be given to Mr. Bartholomae or to the CFRT at the Aquarium*.
+21. Book the Cruiser for that day ((@sec-book-vehicle).
+22. Prepare the required number of the Aquarium's quarantine tanks before leaving (@sec-q-protocol).
+23. Drive to the Namport dry docks and park next to the docked RV.
+    -   *Only one person should drive to Namport If an Aquarium staff member is returning with the RV*
+24. Report to the survey crew leader.
+    -   *He/she will arrange for one of the RV's cranes to help lift the tank off board and for people to help load it onto the back of the Cruiser*.
+    -   *The crew leader will also make sure the types and approximate numbers of the different species, being driven out of port, are recorded on the skippers report sheet*.
+25. Lift the tank off the RV.
+    -   *If Deep sea red crabs were sampled, the tank can be drained completely to make moving it easier*.
+26. Load it onto the back of the Cruiser.
+27. Take a copy of the skippers report sheet or go to the ports exit with RV crew members who have it.
+    -   *Namport inspectors will have to count and verify the contents of the tank before you are allowed to leave*.
+28. Return the vehicle (@sec-vehicle-return).
+
+-   **Clear the path to the quarantine tanks before completing the next Step**.
+
+29. Drain the tank halfway.
+
+30. Carry the tank into the quarantine section (@sec-quarantine). • At least 4 members of the Aquarium's technical staff will be needed for this.
+
+31. Quarantine the animals (@sec-q-protocol)
+
+32. Clean the sample tank.
+
+33. Return all used aquarium equipment to storage.

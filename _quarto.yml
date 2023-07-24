@@ -1,0 +1,70 @@
+project:
+  type: book
+  
+book:
+  title: |
+    Aquarium sop
+  output-file: "aquarium_sop_book"
+  author: "Sebbi Kankondi"
+  date: "10/06/2023"
+  page-navigation: true
+  search: true
+  downloads: [pdf]
+  sharing: [twitter, facebook]
+  sidebar:
+    style: docked
+    background: light
+  cover-image: coat_of_arms.png
+  favicon: aquarium_logo.png
+  chapters:
+    - index.qmd
+    - part: "Life Support System (LSS)"
+      chapters:
+        - intro.qmd
+        - DAF.qmd
+        - fractionator.qmd
+        - filter_tank.qmd
+        - generator.qmd
+    - part: "Display Animals"
+      chapters:
+        - transport.qmd
+        - diving.qmd
+        - animal_collection.qmd
+        - health.qmd
+        - quarantine.qmd
+        - feed.qmd
+        - summary.qmd
+    - references.qmd
+    
+comments:
+  hypothesis: true
+  
+crossref:
+  chapters: true
+  
+highlight-style: pygments
+
+bibliography: references.bib
+csl: AfricanZoology.csl
+
+format:
+  html:
+    theme: journal
+    number-depth: 3
+    cover-image: coat_of_arms.png
+  pdf:
+    documentclass: scrreprt
+    cover-image: coat_of_arms.png
+    fig-pos: 'h'
+  epub:
+    cover-image: coat_of_arms.png
+    
+body-footer: | 
+  This page brought to you 
+margin-header: |
+  <img src="/aquarium_logo.png" width="100px" height="100px" />
+margin-footer: |
+  Sebbi Kankondi
+  
+editor: visual
+

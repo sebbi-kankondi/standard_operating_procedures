@@ -1,0 +1,147 @@
+# Quarantine {#sec-quarantine}
+
+In this text, quarantine refers to the isolation and observation of newly acquired aquatic animals for a specific period that will allow for the detection and possible treatment of diseases before they are introduced into the main tank. Notably, the focus here is on the main tank, as the quarantine procedures outlined may not apply to most animals typically housed in smaller tanks.
+
+*Quarantine does not guarantee that there will be no introduction of diseases, it only reduces the risk.*
+
+## Importance of Quarantine
+
+-   Prevent introduction of new disease to a captive population.
+    -   New disease can result in high mortalities.
+-   Adjustment period to recover from the stress of capture and transportation.
+    -   Stress can unmask subclinical disease and increase the likelihood of disease transmission due to increased infectious load.
+-   Adjustment to confinement and feeding.
+-   Facilitate easier handling, testing and treatment if necessary.
+-   Easier removal of mortalities.
+-   Allowing animals that were injured during capture to be treated and to recover fully.
+
+## Quarantine period {#sec-q-period}
+
+The period of quarantine is variable and risk-dependent [@arthur2008]. Aquariums usually quarantine for a minimum of 30 days, but often longer depending on the species [@jones2014]. This period includes mandatory routine treatments with copper and/or formalin for parasites and antibiotics for wounds and other diseases [@vaughan2019].
+
+A universal treatment applied to the entire main tank is unfeasible, considering the diversity of fish species present and their distinct sensitivities to specific treatments. Moreover, routine quarantine treatment would have to be carried out with consistency, necessitating a highly dependable procurement of medicinal drugs.
+
+For these reasons, it is advisable to **only** quarantine newly acquired marine aquatic species (@sec-sample-collection), or live exhibits displaying initial signs of disease infestation such as anomalous behavior (@sec-diease-signs), in the quarantine tanks for a **minimum period of 21 days**. This duration encompasses the incubation period for most aquatic diseases and parasites, providing an ample timeframe for potential symptoms to manifest more clearly, ensuring they can be readily detected. [Eurl diagnostic manual](https://www.eurl-fish-crustacean.eu/fish/diagnostic-manuals).
+
+### Tool preparation {#sec-quarantine-tool}
+
+Move all required tools and materials from the following list to the quarantine area (pic).
+
+-   1 x 25-gauge, 23-gauge and 21-gauge needles
+-   1 x 1ml, 3ml and 10ml syringes
+-   1 x Zeiss Primo Star Compound microscope (if available)
+-   Microscope glass slides
+-   Microscope cover slips
+-   Diff-Quik stain set
+-   1 x microscope oil
+-   2 x buckets labelled "Quarantine"
+-   1 x large net marked only for quarantine use
+-   2 x Scoop nets
+-   Virkon Aquatic disinfectant powder
+-   Saltwater Aquarium Test strips
+-   pH only test strips
+-   Hydrochloric acid in dropper bottle (for pH adjustments)
+-   sodium bicarbonate (for pH adjustments)
+
+## Quarantine tank preparation {#sec-qt-prep}
+
+The quarantine tanks can be specifically prepared for close monitoring of newly collected aquatic animals or live exhibits that display minor signs of infection (@sec-qt-monitor), and/or to administer treatment to those animals that, while infected, are not suffering from severe forms of pathogenic infection (@sec-qt-treatment). All seriously injured, infected or dead animals should be discarded immediately (@sec-fish-disposal).
+
+[When necessary, the evaluation of the severity of any infections or handling- and transportation-related wounds should be performed with the help of a qualified veterinarian. Contact Mrs Andrea Klingelhoeffer +264818544234 or Swakopmund vet clinic +26464405207]{style="color: red"}
+
+### Quarantine for monitoring {#sec-qt-monitor}
+
+1.  Ensure that the drain valves for the quarantine tank/(s) being used are closed (pic).
+
+    -   *Found under the trench covers.*
+
+2.  Open the quarantine tanks seawater inlet valve (pic) and allow the tank to fill up.
+
+    -   *Found at the top-central segment of the tanks.*
+    -   *Leave this valve open to facilitate water circulation.*
+
+3.  Open the quarantine tanks air supply valve (pic).
+
+    -   *Found at the top-central segment of the tanks.*
+
+4.  Plug in the tanks aerator (pic).
+
+    -   *The aerator can be found above the largest tank.*
+    -   *The aerator power outlet can be found behind the largest tank, under the trench covers.*
+
+5.  Scoop the animals, using the appropriate sized nets, out of the collection tanks (@sec-sample-collection) or quarantine buckets (@sec-remove-fish).
+
+6.  Carefully place the animals into the quarantine tank (pic).
+
+    -   *If newly collected animals are being quarantined, only transfer live, relatively healthy animals into the quarantine tank and discard all seriously injured or dead animals (@sec-fish-disposal)*.
+
+7.  Disinfect the quarantine buckets and various nets with a safe and effective disinfectant, approved for aquatic species, and thereafter leave them empty to dry completely.
+
+    -   *e.g., Virkon Aquatic disinfectant powder.*
+
+8.  Monitor the recently introduced animals, for the period specified above (@sec-q-period), for the development of any symptoms of serious pathogenic infection and to ensure there are no further mortalities.
+
+    -   *Remove and discard any animals that are deceased or exhibit severe signs of infection as they appear (@sec-fish-disposal)*.
+
+9.  Remove all animals from the quarantine tank, using the appropriate sized nets, and place them into the disinfected quarantine buckets.
+
+10. **If, after 21 days, none of the animals exhibit any signs of infection, proceed to @sec-displays. Alternatively, if signs of infection are present, advance to @sec-qt-treatment below.**
+
+11. Close the quarantine tanks seawater inlet valve (pic).
+
+12. Unplug the tanks aerator (pic).
+
+13. Close the quarantine tanks air supply valve (pic).
+
+14. Open the drain valves (pic).
+
+    -   *Let the used water drain completely*.
+
+15. Disinfect the quarantine tanks, buckets and various nets as described in step 7.
+
+### Quarantine for treatment {#sec-qt-treatment}
+
+\*\*A minimum of two tanks must be used during treatment. One for the application of a freshwater bath for the treatment of ectoparasites and the other for
+
+1.  Ensure that the drain valves for the quarantine tank/(s) being used are closed.
+
+**Steps describe the preparation of a freshwater bath for the treatment of ectoparasites.**
+
+2.  
+
+## Quarantine Protocol {#sec-q-protocol}
+
+The following guidelines should be applied:
+
+-   
+
+-   Freshwater baths for the treatment of ectoparasites can be applied for a maximum of 5 minutes on day 0, 1, 2 and day 21.
+
+    -   To prepare the bath, add 5 litres of freshwater for every 1 liter of seawater into a treatment container.
+    -   **Do not perform on elasmobranchs.**
+    -   **pH must be carefully monitored and adjusted for [@vaughan2019].**
+
+### How to adjust the pH
+
+-   Buffer to the same pH as tank of origin.
+    -   pH $\approx$ 8.
+    -   Use pH test strips to monitor pH levels.
+-   Add 1 teaspoon of sodium bicarbonate for every 5$\mathrm{L}$ of water to keep the pH at 8.
+-   If pH must be lowered, use hydrogen chloride (HCL) one drop at a time and measure the pH after every drop.
+-   Inspect the animals twice a day for signs of diseases (@sec-health).
+-   Remove mortalities
+    -   Perform postmortems to establish cause of death.
+-   Only introduce animals to main tank if they all appear to be free of disease during the entire quarantine period.
+    -   If any disease is detected the animals can be treated on an as-needed basis, or humanely euthanized if treatment is not possible.
+    -   Animals that show signs of illness and appear to have recovered without treatment, should not be added to the main tank due to the risk of subclinical disease carrier status.
+    -   If a specific disease can be accurately diagnosed, then the seriousness of the disease can help guide more appropriate decision-making.
+-   Records should be kept.
+    -   Number and species brought into quarantine.
+    -   Mortalities
+    -   Veterinary visits
+    -   Treatments\
+    -   Results of any diagnostic procedures including necropsies.
+
+**After the quarantine period, the quarantine tanks need to be cleaned and disinfected with a safe and effective disinfectant approved for aquatic species and thereafter left empty to dry completely.**
+
+30. Stock the appropriate display tanks with the newly collected animals (Section???)

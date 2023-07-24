@@ -1,0 +1,243 @@
+# Dissolved Air Flotation (DAF) Tank
+
+The DAF tank can be found on the Aquarium's ground floor, behind the main "staff only" access point (@fig-biofilter).
+
+![The Foam fractionator (left), Flocculation column (center) and Dissolved air flotation (right) tanks.](images/daf/biofilter.jpg){#fig-biofilter width="50%" fig-pos="H"}
+
+It has one drain valve and an electric actuator valve in series with the DAF outlet valve, along the outside of the main tank (@fig-dafcomp). The inside of the tank consists of a smaller central DAF column that houses a nozzle manifold connected to the saturated water inlet pipe.
+
+::: {#fig-dafcomp layout-ncol="2" fig-pos="H"}
+![Drain valve](images/daf/dafdrain2.jpg){#fig-daf-drain}
+
+![Outlet (left) and Actuator (right) valve](images/daf/actuator2.jpg){#fig-daf-outlet}
+
+Image of the main components along the outside of the DAF tank.
+:::
+
+## Maintenance {#sec-daf-maintain}
+
+[The maintenance procedure described for the DAF tank should be completed once every year]{style="color: red"}.
+
+### Tool preparation {#sec-daf-tool}
+
+**Most of the tools can be found inside the workshop (room 162)**.
+
+These include:
+
+-   1 x monkey wrench
+-   1 x long hose pipe (50mm diameter)
+-   1 x Ladder (approximately 1.8m long)
+-   1 x long stick (approximately 2.2m long)
+-   2 x Fish scoop nets
+-   1 x Bucket
+
+**To conduct annual maintenance, the DAF tank has to be drained completely**.
+
+### Drain DAF
+
+-   **Steps 1-6 will be completed inside the plant room**.
+
+1.  Close Dump valve No. 18 (@fig-dump-valve).
+2.  Wait for the water level at the Prosonic HMU 860 to reach 90% (@fig-prosonic).
+    -   *Done to ensure enough sea water remains in circulation during the maintenance procedure*.
+3.  Switch off the Jetty pump on the Main control switchboard (@fig-mcs).
+    -   *Prevents more water intake*.
+
+::: {#fig-seacirc layout-ncol="3" fig-pos="H"}
+![Dump valve](images/plant_room/dump_valve2.jpg){#fig-dump-valve}
+
+![Prosonic HMU 860](images/plant_room/prosonic.jpg){#fig-prosonic}
+
+![Main control switchboard](images/plant_room/main_switch2.jpg){#fig-mcs}
+
+Some of the components needed to control the circulation of water and air between the Aquarium and the sea, and within the Aquarium.
+:::
+
+4.  Switch off the Saturator pump.
+    -   *Clipsal power outlet No. 2* (@fig-sat-power).
+5.  Close the Saturator isolating valve No. 36 (@fig-sat-inlet).
+    -   *Feeds the Saturator system*.
+6.  Close the Saturator discharge valve (No. 42) to the DAF tank (@fig-sat-outlet).
+
+-   **Steps 3 - 6 prevent water flow into the DAF unit during the maintenance procedure**.
+
+::: {#fig-sat-comp layout-ncol="2" fig-pos="H"}
+![Saturator](images/plant_room/saturator2.jpg){#fig-sat}
+
+![Saturator power outlet](images/plant_room/saturator_power2.jpg){#fig-sat-power}
+
+![Saturator inlet valve.](images/plant_room/saturator_isolating2.jpg){#fig-sat-inlet}
+
+![Saturator outlet valve.](images/plant_room/saturator_discharge2.jpg){#fig-sat-outlet}
+
+The saturator and all the components required to control water flow from the saturator into the DAF unit.
+:::
+
+7.  Open DAF drain valve (No. 43).
+8.  Allow DAF to drain completely.
+
+-   **Some water still remains in central DAF column after draining**.
+
+### Inspect Nozzle manifold and associated parts
+
+[This is a job for a minimum of 2 people]{style="color: red"}.
+
+9.  Uncouple the Nozzle manifold from the Saturated water inlet pipe.
+    -   *Use a monkey wrench*.
+10. Pull Nozzle manifold out of central DAF column for further inspection.
+    -   *Note any missing parts and biofouling*.
+11. Allow pungent fumes emitted by the sludge build up to clear overnight if necessary.
+    -   *Prolonged inhalation of concentrated methane gas can result in loss of consciousness*.
+    -   *Might not need to wait overnight, can estimate time needed by strength of smell emitted on the day*.
+
+-   **Skip steps 12-16 if maintenance work will resume on the same day**.
+
+12. Turn on Jetty pump.
+13. Close DAF drain valve No. 43 (@fig-dafcomp).
+14. Fill a 1/4 of the DAF tank up with sea water.
+
+-   **In steps 12-14, water is left in the tank to stop the sludge from drying up overnight and adding on to the time required to clean up**.
+
+15. Turn off the Jetty pump (@fig-mcs).
+16. Before resuming maintenance work the next day, open the DAF drain valve and let the water drain out (@fig-dafcomp).
+17. Lower ladder into DAF, rest against central column and climb in.
+    -   *Person climbing in should be small enough to fit through the top of the DAF tank*.
+18. Siphon water out of the central DAF column and into the main DAF tank, where it will discharge via valve No. 43.
+    -   *Use a 50mm diameter hose*.
+    -   *Lower hose into water, create vacuum inside the hose and keep outlet at lower level than inlet to generate flow out of central column*.
+
+-   **Skip step 19 if none of the Nozzles or Nozzle parts are lost**.
+
+19. Retrieve missing Nozzle parts from central DAF column (@fig-dafnozzle).
+    -   *Use Fish scoop net and bucket*.
+    -   *May have to scoop out some sludge first to get to the missing parts*.
+20. Using the fish scoop net, discard (into bucket) any remaining sludge.
+21. Dismantle and clean the Nozzle manifold, Nozzle heads and any accompanying parts (@fig-dafnozzle).
+    -   *Should be able to separate the two small, circular plates found within the Nozzles*.
+    -   *Both have a single hole along their periphery. One smaller than the other*.
+
+![The disassembled DAF, saturated water, discharge nozzle head.](images/daf/nozzle_head.jpg){#fig-dafnozzle width="50%" fig-pos="H"}
+
+22. Inspect Nozzle parts for damage.
+    -   *Take note of damage, if any, and proceed to next step*.
+23. Re-assemble respective parts from step 21.
+    -   *Place the plate with the larger hole on top of the other, facing the opposite direction before inserting it into the Nozzle head*.
+
+[If there are obvious signs of damage to the nozzles, they will have to be replaced with new ones as soon as possible]{style="color: red"}. [Likely contact for new Nozzles is Mr. Jan Marais at Aqua services and engineering]{style="color: red"}.
+
+### Clean tank {#sec-clean-daf-tank}
+
+24. Turn on Jetty pump (@fig-mcs).
+25. Close DAF drain valve No. 43 (@fig-dafcomp).
+26. Fill a 1/4 of the DAF tank with sea water.
+27. Turn off the Jetty pump.
+28. Connect long hose pipe (16mm diameter) to a water tap.
+29. Fasten long stick (approx. 2.2m length and 40mm diameter) to the opposite end of the hose pipe with cable ties.
+30. Lower pipe into the DAF tank and open tap.
+31. Use the water flow from the pipe to help agitate and thoroughly mix the sludge with the standing water.
+32. Open the DAF drain valve and let the water-sludge mix drain out.
+    -   *Continue mixing the sludge during draining*.
+
+-   **Fill a 1/4 of the DAF tank up and repeat if sludge not adequately cleared**.
+
+33. Climb out and remove the ladder.
+34. Connect Nozzle manifold to the Saturated water inlet pipe.
+
+### Resume normal operation
+
+[Only resume normal system operation if there is no excess sludge build-up at the bottom of the DAF tank]{style="color: red"}
+
+35. Switch on Jetty pump (@fig-mcs).
+36. Close DAF drain valve No. 43.
+37. Wait for DAF tank to fill up.
+    -   *Lasts more than 30 minutes*.
+38. Open Main dump valve No. 18 (@fig-dump-valve).
+39. Open Saturator isolating valve No. 36 (@fig-sat-inlet).
+40. Switch on Saturator pump (@fig-sat-power).
+41. Open Saturator discharge valve No. 42 (@fig-sat-outlet).
+
+## Repairs
+
+Under normal circumstances the Dissolved oxygen flotation (DAF) tank acts as an initial filter in the Aquarium system, removing oils, grease and any other suspended solids from the raw sea water intake. This is achieved in conjunction with flocculant from the flocculant column (@fig-biofilter) and micro air bubbles, supplied via nozzles from the saturator column (@fig-sat) that are discharged at the base of a smaller, central DAF column within the main DAF tank. Flocculant coagulates the suspended material, which is then surrounded and lifted by the micro-bubbles, before being skimmed off the top and discharged through the waste outlet.
+
+When the DAF performs sub-optimally, unfiltered, raw sea water containing substances such as oils and heavy metals may enter the Aquarium system. This can severely impair the display animals' health, possibly leading to increased mortality rates. Consequently, the DAF systems' performance should not be compromised for prolonged periods.
+
+### Problem diagnosis
+
+Excess bubbling/large bubble formation was identified at the top of the DAF by Mr. Botes after a routine inspection round. Further consultation with Mr. Jan Marais, from Aqua Services and Engineering, narrowed the problem down to a likely issue with the nozzles.
+
+### Tool preparation
+
+**The tools used in @sec-daf-tool were also used here.**
+
+### Nozzle inspection
+
+To inspect the nozzles, the DAF unit had to be drained of all liquid.
+
+#### Drain DAF
+
+-   **Steps 1-6 will be completed inside the plant room**.
+
+1.  Close Dump valve No. 18 (@fig-dump-valve).
+2.  Wait for the water level at the Prosonic HMU 860 to reach 90% (@fig-prosonic).
+    -   *Done to ensure enough sea water remains in circulation during the maintenance procedure*.
+3.  Switch off the Jetty pump on the main control switchboard (@fig-mcs).
+    -   *Prevents more water intake*.
+4.  Switch off the Saturator pump.
+    -   *Clipsal power outlet No. 2* (@fig-sat-power).
+5.  Close the Saturator isolating valve No. 36 (@fig-sat-inlet).
+    -   *Feeds the Saturator system*.
+6.  Close the Saturator discharge valve (No. 42) to the DAF tank (@fig-sat-outlet).
+
+-   **Steps 3 - 6 prevent water flow into the DAF unit during the maintenance procedure**.
+
+7.  Opened DAF drain valve No. 43 (@fig-dafcomp).
+8.  Allowed DAF to drain completely.
+
+-   **Some water still remained in central DAF column after draining**
+
+[Once completely drained, excess sludge could be seen accumulated at the bottom of the DAF tank]{style="color: red"}
+
+#### Extract Nozzle manifold and associated parts
+
+[This is a job for a minimum of 2 people]{style="color: red"}
+
+9.  Uncoupled the Nozzle manifold from the Saturated water inlet pipe.
+    -   *Used a monkey wrench*.
+10. Pulled Nozzle manifold out of central DAF column for further inspection.
+    -   *One of three Nozzle heads was missing and there was some blockage around the Nozzle outlets due to biofouling*.
+11. Allowed pungent fumes emitted by the sludge build up to clear overnight.
+    -   *Prolonged inhalation of concentrated methane gas can result in loss of consciousness*.
+12. Lowered ladder into DAF tank, against central column and climbed in.
+    -   *Person climbing in should be small enough to fit through the top of the DAF tank*.
+13. Siphoned water out of the central DAF column and into the main DAF tank, where it was discharged via valve No. 43 (@fig-dafcomp).
+    -   *Used a 50mm diameter hose*.
+    -   *Lowered hose into water, created a vacuum inside the hose and kept outlet at lower level than inlet to generate flow out of central column*.
+14. Retrieved missing Nozzle parts from central DAF column (@fig-dafnozzle).
+    -   *Used Fish scoop net and bucket*.
+    -   *Had to scoop out some sludge first to get to the lost parts*.
+15. Used the fish scoop net to discard (into bucket) any remaining sludge after retrieving the lost Nozzle parts.
+16. Removed ladder.
+17. Dismantled and cleaned the Nozzle manifold, Nozzle heads and any accompanying parts.
+    -   *Found two, small circular plates within the Nozzles* (@fig-dafnozzle).
+    -   *Both had a single hole along their periphery. One smaller than the other*.
+18. Inspected the Nozzle parts for damage.
+    -   *Parts were not damaged*.
+19. Re-assembled respective parts from step 17.
+    -   *Placed the plate with the larger hole on top of the other, facing the opposite direction before inserting it into the Nozzle head*.
+20. Connected the Nozzle manifold to the Saturated water inlet pipe.
+
+[In case of damage to Nozzle parts, contact Mr. Jan Marais, at Aqua services and engineering, for new Nozzles]{style="color: red"}.
+
+#### Resume normal operation
+
+**Once all sludge has been removed (see @sec-daf-maintain for clean up procedure) normal system operation can be started**.
+
+21. Switch on Jetty pump (@fig-mcs).
+22. Close DAF drain valve No. 43 (@fig-dafcomp).
+23. Wait for DAF tank to fill up.
+    -   *Lasts more than 30 minutes*.
+24. Open main dump valve No. 18 (@fig-dump-valve).
+25. Open Saturator isolating valve No. 36 (@fig-sat-inlet).
+26. Switch on Saturator pump (@fig-sat-power).
+27. Open Saturator discharge valve No. 42 (@fig-sat-outlet).

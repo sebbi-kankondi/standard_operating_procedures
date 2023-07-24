@@ -1,0 +1,120 @@
+# Foam Fractionator {#sec-fractionator}
+
+The Foam fractionator is found next to the DAF tank (@fig-biofilter). It has an outlet and drain valve connected to the outside of it's main tank (@fig-foamcomp).
+
+::: {#fig-foamcomp layout-ncol="3" fig-pos="H"}
+![Drain valve](images/foam_frac/drain2.jpg){#fig-frac-drain}
+
+![Outlet valve](images/foam_frac/outlet2.jpg){#fig-frac-outlet}
+
+![Inlet valve](images/foam_frac/supply2.jpg){#fig-frac-inlet}
+
+The main components used to control water flow into and out of the foam fractionator.
+:::
+
+The inner tank consists of an air inlet pipe, water inlet pipe and four collection strainers that convey water to the fractionator's discharge pipe (@fig-foaminner).
+
+![Image displaying the air inlet (top), water inlet (center) and collection strainers (bottom) found inside the foam fractionator.](images/foam_frac/foam_inner.jpg){#fig-foaminner width="50%" fig-pos="H"}
+
+## Maintenance {#sec-frac-main}
+
+[The maintenance procedure described for the Foam fractionator (referred to as "the Fractionator" throughout) should be completed once every year]{style="color: red"}.
+
+### Tool preparation
+
+Use the same tools used for the DAF maintenance procedure (@sec-daf-tool).
+
+**To conduct annual maintenance, the Fractionator has to be drained completely**.
+
+### Drain the Fractionator {#sec-drain-frac}
+
+1.  Close Dump valve (No. 18), found in the Plant room.
+2.  Wait for the water level at the Prosonic HMU 860 to reach 90%.
+    i)  *Done to ensure enough sea water remains in circulation during the maintenance procedure*.
+3.  Turn off the Jetty pump on the Main control switchboard.
+    i)  *Prevents the intake of more water*.
+4.  Turn off the Fractionator blowers on the Main control switchboard (@fig-mcs).
+5.  Close the Fractionator outlet valve No. 49 (@fig-frac-outlet).
+    i)  *Prevents the discharge of more water into the Compensation sump*
+6.  Close the Fractionator inlet valve No. 48 (@fig-frac-inlet).
+    i)  *Prevents the flow of more water into the Fractionator*.
+7.  Open the Fractionator drain valve No. 50 (@fig-frac-drain).
+8.  Let the Fractionator drain completely.
+
+### Inspect internal plumbing
+
+9.  Ensure that all pipes, fittings, strainers and any other fixtures required to convey water are appropriately arranged and attached within the tank (@fig-foaminner).
+    i)  **See @sec-foam-realign for example of steps taken to realign strainers found at the bottom of the Fractionator**.
+
+### Clean tank {#sec-foam-clean}
+
+[This will only need to be done if there is a build-up of excess sludge at the bottom of the tank, which is not likely to happen because mostly filtered water enters the Fractionator from the Main tank floor]{style="color: red"}. [All cleaning can be done from the top of the Fractionator]{style="color: red"}.
+
+-   **Skip cleaning procedure (steps 10-21) if the bottom of the Fractionator is already clean**.
+
+10. Connect a long hose pipe (16mm diameter) to a water tap.
+11. Spray off any excess sludge in the Waste collection trough around the Fractionator periphery, found approximately 1/3 of the way from the top of the tank.
+12. Turn off the tap.
+13. Close the Fractionator drain valve No. 50 (@fig-frac-drain).
+14. Open the Fractionator inlet valve No. 48 (@fig-frac-inlet).
+15. Fill a 1/4 of the Fractionator with sea water.
+16. Close the Fractionator inlet valve (No. 48).
+17. Fasten a long stick (approx. 2.2m length and 40mm diameter) to the outlet end of the hose pipe with cable ties.
+18. Lower the pipe into the Fractionator and open the tap.
+19. Use the water flow from the pipe to help agitate and thoroughly mix the sludge trapped at the bottom of the tank, as well as on the strainers, with the standing water.
+20. Open the Fractionator drain valve and let the water-sludge mix drain out.
+    i)  *Continue mixing the sludge during draining*.
+
+-   **Fill a 1/4 of the Fractionator tank up and repeat if sludge not adequately cleared**.
+
+21. Close the tap and remove the pipe from the tank.
+
+### Resume normal operation {#sec-foam-resume}
+
+[Only resume normal system operation if there is no excess sludge build-up at the bottom of the Fractionator]{style="color: red"}.
+
+22. Close the Fractionator drain valve (No. 50).
+23. Open the Fractionator inlet valve (No. 48).
+24. Turn on the Jetty pump .
+25. Wait for the Fractionator to fill up.
+    i)  *Lasts more than 30 minutes*.
+26. Open the Fractionator outlet valve (No. 49).\
+27. Open the Dump valve No. 18 (@fig-dump-valve).
+28. Turn on the Fractionator blowers (@fig-mcs).
+
+## Repairs
+
+During normal operation the Foam fractionator helps remove excess protein from the recirculated Aquarium water. Air bubbles released from a series of diffusers near the base of the tank, aggregate the suspended protein by exploiting the amphipathicity of protein. This creates a foam that, because of its' lower density, rises to the Fractionator water surface where it is skimmed off the top. Waste generated through this process is then conveyed to the Fractionator drain valve (@fig-foamcomp), and discharged along with sludge that may have accumulated at the bottom. The skimmed water settles back into the fractionator. It is then discharged near the Fractionators' base after passing through four strainers, fastened near the ends of two parallel pipes, which are joined to each other by a central pipe axis (@fig-foaminner).
+
+Decreased Fractionator functionality increases the protein concentration of the Aquarium water, which promotes anaerobic conditions and reduces the waters' clarity. It is therefore important to ensure the Fractionator is always operating optimally.
+
+### Inspect internal plumbing
+
+To inspect the internal plumbing, the Fractionator had to be drained of all liquid.
+
+#### Drain the Fractionator
+
+**See @sec-drain-frac for a description of the Fractionator draining procedure**.
+
+### Problem diagnosis
+
+While conducting further maintenance (@sec-frac-main), Mr. Evelinu noticed that one half of the strainer manifold (@fig-foaminner) was misaligned. More specifically, two strainers along one of the pipes was turned approximately 70$^\circ$ to the horizontal base i.e., one strainer was raised higher than normal and the other lower than normal.
+
+### Tool preparation
+
+**The tools used in (@sec-daf-tool) were also used here**.
+
+#### Strainer realignment {#sec-foam-realign}
+
+[The skewed strainer manifold did not appear to disrupt the normal functioning of the Fractionator, which determined how the Aquarium's technical staff chose to rectify the problem]{style="color: red"}.
+
+[Strainer realignment can be done from the top of the Fractionator]{style="color: red"}.
+
+1.  Using a long stick (approx. 2.2m length and 40mm diameter), press down on the raised strainer until the two strainer pipes are parallel to each other.
+2.  Remove the stick from the tank.
+
+#### Resume normal operation
+
+[Only resume normal system operation if there is no excess sludge build-up at the bottom of the Fractionator]{style="color: red"}.
+
+**See @sec-foam-clean and @sec-foam-resume for guides detailing Fractionator cleaning and the resumption of normal system operations**.
